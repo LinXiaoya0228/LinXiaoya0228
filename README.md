@@ -1,6 +1,9 @@
-- 👋 Hi, I’m Xiaoya
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently a Year 3 EEE UG in NTU
+### Hi!!! 👋
+
+- 📚 Hi, I’m Xiao Ya, a Year 3 undergraduate in NTU (Singapore) EEE specialising in Data Science & Machine Learning.
+- 💬 English(en) 中文(zh) Français(fr)
+- 🌱 3 internship experience
+- 💜 Generative Visual Forensics and Adversarial Robustness (Deepfake detection, Robust generative modeling & Visual anomaly analysis)
 - 📫 Reach me at LINX0070@e.ntu.edu.sg
 
 <!---
