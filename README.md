@@ -1,89 +1,90 @@
-Hi there! 👋🏻  
+# 👋 Hi there!
 I'm **Lin Xiaoya (林小雅)**, an aspiring researcher at [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore 🇸🇬.
 
-🎓 **Electrical & Electronic Engineering (Year 3)**  
-🔧 **Specialization:** Data Science and Machine Learning  
-💡 **Research Interests:** Generative Visual Forensics, Deepfake Detection, Image Restoration, Visual Anomaly & Robust Generative Modeling  
+## 🎓 Education & Research Focus  
+**Bachelor of Electrical & Electronic Engineering (Year 3)**  
+**Specialization:** Data Science and Machine Learning  
+**Research Interests:** Generative Visual Forensics · Deepfake Detection · Image Restoration · Visual Anomaly & Robust Generative Modeling  
 📄 [Lin Xiaoya's Curriculum Vitae](LinXiaoya_resume.pdf)
 
----
+💬 Languages: English (en), 中文 (zh), Français (fr)
+🧠 Research Domains: Visual ML · Trace-based Forensics · Healthcare AI · Image-Guided Modeling
+🎓 Honors: Dean’s List · NTU Science & Engineering Scholarship · ICUR Presenter
 
-💬 Languages: English (en), 中文 (zh), Français (fr)  
-🧠 Research Domains: Visual ML · Trace-based Forensics · Healthcare AI · Image-Guided Modeling  
-📦 Core Stack: Python · R · SQL · C ·  PySpark · MongoDB · AWS  
-🎓 Honors: Dean’s List · NTU Science & Engineering Scholarship · ICUR Presenter  
+## 👩‍💻 Work Experience
+### [GlobalFoundries](https://gf.com/) · Data Scientist Intern *(May – Dec 2025)*  
+- Scaled trace data processing pipelines using AWS S3, Boto3, PySpark  
+- Optimized performance via Parquet + Snappy compression  
+- Developed trace-to-image ML pipeline using RNNs and hyperparameter tuning  
+- Achieved 80–90% accuracy on trace classification models
 
----
+### [A*STAR](https://www.a-star.edu.sg/) · Healthcare Data Research Intern *(Jan – Apr 2025)*  
+- Built anonymization workflows for facial health screening datasets  
+- Engineered feature-preservation strategies in CNN-based models  
+- Contributed to frequency-based contrastive learning pipeline with PyTorch DDP
 
-👩‍💻 **Work Experience**
-- [**GlobalFoundries**](https://gf.com/) · Data Scientist Intern *(May – Dec 2025)*  
-  ▪ Scaled trace data processing pipelines using AWS S3, Boto3, PySpark  
-  ▪ Improved efficiency through Parquet + Snappy compression  
-  ▪ Developed trace-to-image ML pipeline (GAF, line charts + RNN tuning)  
-  ▪ Achieved 80–90% accuracy in trace classification models  
+### [Classbro (Shanghai DAOBI)](https://www.classbro.com/) · DS & ML Instructor *(Jun – Dec 2024)*  
+- Delivered foundational ML & SQL lectures  
+- Designed course content generating SGD 10,000+ growth
 
-- [**A*STAR**](https://www.a-star.edu.sg/) · Healthcare Data Pre-Processing Research Intern *(Jan – Apr 2025)*  
-  ▪ Anonymized patient facial datasets  
-  ▪ Evaluated feature-preserving preprocessing pipelines  
+## 🔬 Selected Projects
+### Scalable Data Pipeline & Compression (FDCDataExtractor)
+- Developed multi-month modular pipelines with AWS & PySpark  
+- Reduced runtime from hours to 4–8 mins, cutting storage by 90%
 
-- [**Classbro (Shanghai DAOBI)**](https://www.classbro.com/) · DS & ML Instructor *(Jun – Dec 2024)*  
-  ▪ Delivered lessons on ML, SQL fundamentals  
-  ▪ Designed content contributing over SGD 10,000 in growth  
+### Trace-to-Image ML Pipeline Development *(Ongoing)*
+- Converted traces into images (GAF, line charts); trained baseline RNNs  
+- Used Optuna & Keras-Tuner for pipeline optimization
 
----
+### Remote Photoplethysmography (rPPG) via Self-Supervised Learning
+- Built self-supervised pipeline for heart rate estimation from facial video  
+- Used PhysNet + contrastive learning in frequency/temporal domains  
+- Achieved sub-30ms inference latency via PyTorch DDP
 
-🔬 **Projects**
-- **Scalable Data Pipeline & Compression (FDCDataExtractor)**
-  •	Developed modular data pipelines for multi-month trace data processing with AWS S3, Boto3, PySpark, optimizing query performance.
-  •	Implemented Parquet and Snappy compression techniques to improve retrieval speed and efficiency for high-volume semiconductor datasets.
-  •	Reduced extraction runtime from hours to 4–8 mins; cut storage by 90%; eliminated session timeouts.
-  
-- **Trace-to-Image Machine Learning Pipeline Development** *(Ongoing)*  
-  ▪ Conducting literature review and data export across 6 months for all trace types.
-  ▪ Converting segmented traces into images; trained baseline RNN models with hyperparameter tuning via Optuna, Keras-Tuner.
-  ▪ Delivering modular classification pipeline.
+### URECA: AlzCare Smart Watch *(Ongoing)*  
+- Developing AI wearable for dementia patients with geofencing & alerts  
+- Collaborating with SG Jamiyah Nursing Home & SG DementiaHub
 
-- **Remote Photoplethysmography with Self-Supervised Learning**
-  •	Developed privacy-preserving preprocessing pipelines for facial healthcare datasets to support AI-based health screening, ensuring full compliance with data governance standards.
-  •	Engineered feature retention strategies and collaborated on optimization of CNN-based models for heart rate signal extraction via remote photoplethysmography (rPPG).
-  •	Delivered a self-supervised ML framework using contrastive learning in frequency and temporal domains, achieving scalable training via PyTorch DDP and inference latency under 30ms.
+### Hotel Booking Forecasting  
+- Applied ensemble ML models with 91% accuracy  
+- Delivered insights using TensorFlow neural networks
 
-- **URECA: AlzCare Smart Watch** *(Ongoing)*  
-  ▪ Building AI wearable for dementia care  
-  ▪ Focus on geofencing, fall detection, caregiver alerts  
-  ▪ Partnering with SG Jamiyah Nursing Home & DementiaHub
+### EV Infrastructure Analysis  
+- Modeled EV transition using MySQL + MongoDB  
+- Proposed sustainable strategies for Singapore transport
 
-- **Hotel Cancellation Forecasting (DSAI Module)**  
-  ▪ Ensemble model pipeline (XGB, RF, Logistic Regression)  
-  ▪ Achieved 91% accuracy with TensorFlow neural network  
-
-- **EV Infrastructure Transition Analysis (NBS DB Module)**  
-  ▪ Used MySQL + MongoDB for transition modeling  
-  ▪ Recommended sustainable transportation strategies for SG
-
----
-
-🌱 **Community & Leadership**
-- NTU IET · Liaison Manager (Jul 2024 – Present)  
+## 🌱 Community & Leadership  
+- NTU IET · Liaison Manager  
 - NTU IIC · Member  
 - CFLS-MUN · Academic Director  
-  ▪ Chaired 1,000+ participant MUN  
-  ▪ Led World & Yale MUN delegations  
+  - Chaired 1,000+ participant MUN  
+  - Led delegations to World & Yale MUN
+
+## 🧰 Featured Technologies & Tools  
+
+![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python)
+![R](https://img.shields.io/badge/R-Data%20Science-blueviolet?style=for-the-badge&logo=r)
+![C](https://img.shields.io/badge/C-Low%20Level-grey?style=for-the-badge&logo=c)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-1.12+-red?style=for-the-badge&logo=pytorch)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-yellow?style=for-the-badge&logo=scikitlearn)
+![AWS](https://img.shields.io/badge/AWS-S3%20%7C%20Boto3%20%7C%20SageMaker-orange?style=for-the-badge&logo=amazon-aws)
+![PySpark](https://img.shields.io/badge/PySpark-Big%20Data-lightblue?style=for-the-badge&logo=apache-spark)
+![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-brightgreen?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-Relational-blue?style=for-the-badge&logo=mysql)
+![Optuna](https://img.shields.io/badge/Optuna-HPO-lightgrey?style=for-the-badge)
+![Keras Tuner](https://img.shields.io/badge/Keras_Tuner-Optimization-green?style=for-the-badge)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Healthcare%20AI-green?style=flat-square)](https://0228lin.github.io/)
+[![Skills](https://img.shields.io/badge/Skills-Computer%20Vision%20%7C%20Deep%20Learning%20%7C%20Signal%20Processing-blue?style=flat-square)](https://github.com/0228lin)
+
+## 📌 Connect With Me  
+📧 [Email](mailto:LINX0070@e.ntu.edu.sg)  
+💼 [LinkedIn](https://www.linkedin.com/in/xiaoya-lin/)  
+💻 [GitHub](https://github.com/0228lin)  
+💬 [Wechat](wechat.png)
 
 ---
-
-⭐️ Featured Technologies & Tools  
-Python · Pandas · NumPy · Scikit-learn · TensorFlow · XGBoost  
-AWS (S3, SageMaker, Boto3) · PySpark · MongoDB · MySQL  
-JupyterLab · Figma · Optuna · Keras-Tuner · Bloomberg MKT Cert  
-Trace-to-Image: Gramian Angular Fields · Line Chart Conversion
-
----
-
-📌 Connect With Me  
-📧 [Email](mailto:LINX0070@e.ntu.edu.sg) · 💼 [LinkedIn](https://www.linkedin.com/in/xiaoya-lin/) · 💻 [GitHub](https://github.com/0228lin) · 💬 [Wechat](wechat.png)
-
-
 
 <!---
 0228lin/0228lin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
