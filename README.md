@@ -7,9 +7,10 @@ I'm **Lin Xiaoya (林小雅)**, an aspiring researcher at [Nanyang Technological
 **Research Interests:** Generative Visual Forensics · Deepfake Detection · Image Restoration · Visual Anomaly & Robust Generative Modeling  
 📄 [Lin Xiaoya's Curriculum Vitae](LinXiaoya_resume.pdf)
 
-💬 Languages: English (en), 中文 (zh), Français (fr)
-🧠 Research Domains: Visual ML · Trace-based Forensics · Healthcare AI · Image-Guided Modeling
-🎓 Honors: Dean’s List · NTU Science & Engineering Scholarship · ICUR Presenter
+💬 **Languages**: English (en), 中文 (zh), Français (fr)  
+🧠 **Research Domains**: Visual ML · Trace-based Forensics · Healthcare AI · Image-Guided Modeling  
+🎓 **Honors**: Dean’s List · NTU Science & Engineering Scholarship · ICUR Presenter
+
 
 ## 👩‍💻 Work Experience
 ### [GlobalFoundries](https://gf.com/) · Data Scientist Intern *(May – Dec 2025)*  
