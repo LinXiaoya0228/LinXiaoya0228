@@ -1,13 +1,3 @@
-### Hi!!! 👋
-
-
-- 💜 My research interest centers around **Generative Visual Forensics & Deepfake Detection**, **Image Restoration** and **Visual Anomaly & Robust Generative Modeling**.
-- 🌱 Internship:<br>
-                  - [Classbro](https://www.classbro.com/) DS & ML Instructor (Jun 2024 – Dec 2024) <br>
-                  - [A*STAR](https://www.a-star.edu.sg/) Healthcare Data Pre-Processing Research Intern (Jan 2025 – Apr 2025) <br>
-                  - [GlobalFoundries](https://gf.com/) DS (May 2025 - Dec 2025) 
-- 📫 Reach me at LINX0070@e.ntu.edu.sg
-
 Hi there! 👋🏻  
 I'm **Xiaoya Lin (林小雅)**, an aspiring researcher at [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore 🇸🇬.
 
@@ -22,7 +12,6 @@ I'm **Xiaoya Lin (林小雅)**, an aspiring researcher at [Nanyang Technological
 🧠 Research Domains: Visual ML · Trace-based Forensics · Healthcare AI · Image-Guided Modeling  
 📦 Core Stack: Python · R · SQL · C ·  PySpark · MongoDB · AWS  
 🎓 Honors: Dean’s List · NTU Science & Engineering Scholarship · ICUR Presenter  
-📚 Coursework: ML, AI, SQL/NoSQL, Data Structures, Database Design  
 
 ---
 
@@ -31,7 +20,7 @@ I'm **Xiaoya Lin (林小雅)**, an aspiring researcher at [Nanyang Technological
   ▪ Scaled trace data processing pipelines using AWS S3, Boto3, PySpark  
   ▪ Improved efficiency through Parquet + Snappy compression  
   ▪ Developed trace-to-image ML pipeline (GAF, line charts + RNN tuning)  
-  ▪ Achieved 70–90% accuracy in trace classification models  
+  ▪ Achieved 80–90% accuracy in trace classification models  
 
 - [**A*STAR**](https://www.a-star.edu.sg/) · Healthcare Data Pre-Processing Research Intern *(Jan – Apr 2025)*  
   ▪ Anonymized patient facial datasets  
@@ -44,12 +33,12 @@ I'm **Xiaoya Lin (林小雅)**, an aspiring researcher at [Nanyang Technological
 ---
 
 🔬 **Projects**
-- **Scalable Data Pipeline & Compression**
+- **Scalable Data Pipeline & Compression (FDCDataExtractor)**
   •	Developed modular data pipelines for multi-month trace data processing with AWS S3, Boto3, PySpark, optimizing query performance.
   •	Implemented Parquet and Snappy compression techniques to improve retrieval speed and efficiency for high-volume semiconductor datasets.
   •	Reduced extraction runtime from hours to 4–8 mins; cut storage by 90%; eliminated session timeouts.
   
-- **Trace-to-Image Machine Learning Pipeline Development**
+- **Trace-to-Image Machine Learning Pipeline Development** *(Ongoing)*  
   ▪ Conducting literature review and data export across 6 months for all trace types.
   ▪ Converting segmented traces into images; trained baseline RNN models with hyperparameter tuning via Optuna, Keras-Tuner.
   ▪ Delivering modular classification pipeline.
@@ -92,7 +81,7 @@ Trace-to-Image: Gramian Angular Fields · Line Chart Conversion
 ---
 
 📌 Connect With Me  
-📧 [Email](mailto:LINX0070@e.ntu.edu.sg) · 💼 [LinkedIn](https://www.linkedin.com/in/xiaoya-lin/) · 💻 [GitHub](https://github.com/0228lin) · 💬 [Wechat](../../images/wechat.png)
+📧 [Email](mailto:LINX0070@e.ntu.edu.sg) · 💼 [LinkedIn](https://www.linkedin.com/in/xiaoya-lin/) · 💻 [GitHub](https://github.com/0228lin) · 💬 [Wechat](0228lin.github.io/images/wechat.png)
 
 
 <!---
