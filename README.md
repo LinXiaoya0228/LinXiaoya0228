@@ -4,7 +4,7 @@ I'm **Xiaoya Lin (林小雅)**, an aspiring researcher at [Nanyang Technological
 🎓 **Electrical & Electronic Engineering (Year 3)**  
 🔧 **Specialization:** Data Science and Machine Learning  
 💡 **Research Interests:** Generative Visual Forensics, Deepfake Detection, Image Restoration, Visual Anomaly & Robust Generative Modeling  
-📄 [Curriculum Vitae](../../assets/LinXiaoya_Curriculum_Vitae.pdf)
+📄 [Xiaoya Lin's Curriculum Vitae](LinXiaoya_resume.pdf)
 
 ---
 
