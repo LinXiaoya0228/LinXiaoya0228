@@ -81,7 +81,7 @@ Trace-to-Image: Gramian Angular Fields · Line Chart Conversion
 ---
 
 📌 Connect With Me  
-📧 [Email](mailto:LINX0070@e.ntu.edu.sg) · 💼 [LinkedIn](https://www.linkedin.com/in/xiaoya-lin/) · 💻 [GitHub](https://github.com/0228lin) · 💬 [Wechat](https://0228lin.github.io/image/wechat.png)
+📧 [Email](mailto:LINX0070@e.ntu.edu.sg) · 💼 [LinkedIn](https://www.linkedin.com/in/xiaoya-lin/) · 💻 [GitHub](https://github.com/0228lin) · 💬 [Wechat](https://github.com/0228lin/0228lin.github.io/blob/main/images/wechat.png)
 
 
 
