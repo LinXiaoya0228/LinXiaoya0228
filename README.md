@@ -1,5 +1,5 @@
 # 👋 Hi there!
-I'm **Lin Xiaoya (林小雅)**, an aspiring researcher at [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore 🇸🇬.
+I'm **Lin Xiaoya (林小雅)**, an aspiring researcher at [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore.
 
 ## 🎓 Education & Research Focus  
 **Bachelor of Electrical & Electronic Engineering (Year 3)**  
