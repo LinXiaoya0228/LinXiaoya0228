@@ -37,7 +37,7 @@ I'm **Lin Xiaoya (林小雅)**, an aspiring researcher at [Nanyang Technological
 - Converted traces into images (GAF, line charts); trained baseline RNNs  
 - Used Optuna & Keras-Tuner for pipeline optimization
 
-### Remote Photoplethysmography (rPPG) via Self-Supervised Learning
+### [Remote Photoplethysmography (rPPG) via Self-Supervised Learning](https://github.com/0228lin/remote-photoplethysmography-ssl)
 - Built self-supervised pipeline for heart rate estimation from facial video  
 - Used PhysNet + contrastive learning in frequency/temporal domains  
 - Achieved sub-30ms inference latency via PyTorch DDP
