@@ -62,21 +62,37 @@ I'm **Lin Xiaoya (林小雅)**, an aspiring researcher at [Nanyang Technological
 
 ## 🧰 Featured Technologies & Tools  
 
+### 🗣️ Languages
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python)
 ![R](https://img.shields.io/badge/R-Data%20Science-blueviolet?style=for-the-badge&logo=r)
 ![C](https://img.shields.io/badge/C-Low%20Level-grey?style=for-the-badge&logo=c)
+![SQL](https://img.shields.io/badge/SQL-Structured-grey?style=for-the-badge&logo=mysql)
+
+---
+
+### 🧠 Libraries & Frameworks
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?style=for-the-badge&logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/PyTorch-1.12+-red?style=for-the-badge&logo=pytorch)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-yellow?style=for-the-badge&logo=scikitlearn)
-![AWS](https://img.shields.io/badge/AWS-S3%20%7C%20Boto3%20%7C%20SageMaker-orange?style=for-the-badge&logo=amazon-aws)
-![PySpark](https://img.shields.io/badge/PySpark-Big%20Data-lightblue?style=for-the-badge&logo=apache-spark)
-![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-brightgreen?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-Relational-blue?style=for-the-badge&logo=mysql)
 ![Optuna](https://img.shields.io/badge/Optuna-HPO-lightgrey?style=for-the-badge)
 ![Keras Tuner](https://img.shields.io/badge/Keras_Tuner-Optimization-green?style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-Microframework-black?style=for-the-badge&logo=flask)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Healthcare%20AI-green?style=flat-square)](https://0228lin.github.io/)
-[![Skills](https://img.shields.io/badge/Skills-Computer%20Vision%20%7C%20Deep%20Learning%20%7C%20Signal%20Processing-blue?style=flat-square)](https://github.com/0228lin)
+---
+
+### ☁️ Cloud & Big Data
+![AWS](https://img.shields.io/badge/AWS-S3%20%7C%20Boto3%20%7C%20SageMaker-orange?style=for-the-badge&logo=amazon-aws)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Platform-blue?style=for-the-badge&logo=googlecloud)
+![PySpark](https://img.shields.io/badge/PySpark-Big%20Data-lightblue?style=for-the-badge&logo=apache-spark)
+
+---
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-brightgreen?style=for-the-badge&logo=mongodb)
+![NoSQL](https://img.shields.io/badge/NoSQL-Databases-green?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-Relational-blue?style=for-the-badge&logo=mysql)
+
+
 
 ## 📌 Connect With Me  
 📧 [Email](mailto:LINX0070@e.ntu.edu.sg)  
