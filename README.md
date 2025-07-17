@@ -13,20 +13,10 @@ I'm **Lin Xiaoya (林小雅)**, an aspiring researcher at [Nanyang Technological
 
 
 ## 👩‍💻 Work Experience
-### [GlobalFoundries](https://gf.com/) · Data Scientist Intern *(May – Dec 2025)*  
-- Scaled trace data processing pipelines using AWS S3, Boto3, PySpark  
-- Optimized performance via Parquet + Snappy compression  
-- Developed trace-to-image ML pipeline using RNNs and hyperparameter tuning  
-- Achieved 80–90% accuracy on trace classification models
+[**GlobalFoundries**](https://gf.com/) · Data Scientist Intern *(May – Dec 2025)*  
+[**A*STAR**](https://www.a-star.edu.sg/) · Healthcare Data Research Intern *(Jan – Apr 2025)*  
+[**Classbro (Shanghai DAOBI)**](https://www.classbro.com/) · DS & ML Instructor *(Jun – Dec 2024)*  
 
-### [A*STAR](https://www.a-star.edu.sg/) · Healthcare Data Research Intern *(Jan – Apr 2025)*  
-- Built anonymization workflows for facial health screening datasets  
-- Engineered feature-preservation strategies in CNN-based models  
-- Contributed to frequency-based contrastive learning pipeline with PyTorch DDP
-
-### [Classbro (Shanghai DAOBI)](https://www.classbro.com/) · DS & ML Instructor *(Jun – Dec 2024)*  
-- Delivered foundational ML & SQL lectures  
-- Designed course content generating SGD 10,000+ growth
 
 ## 🔬 Selected Projects
 ### Scalable Data Pipeline & Compression (FDCDataExtractor)
