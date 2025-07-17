@@ -1,10 +1,10 @@
 Hi there! 👋🏻  
-I'm **Xiaoya Lin (林小雅)**, an aspiring researcher at [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore 🇸🇬.
+I'm **Lin Xiaoya (林小雅)**, an aspiring researcher at [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore 🇸🇬.
 
 🎓 **Electrical & Electronic Engineering (Year 3)**  
 🔧 **Specialization:** Data Science and Machine Learning  
 💡 **Research Interests:** Generative Visual Forensics, Deepfake Detection, Image Restoration, Visual Anomaly & Robust Generative Modeling  
-📄 [Xiaoya Lin's Curriculum Vitae](LinXiaoya_resume.pdf)
+📄 [Lin Xiaoya's Curriculum Vitae](LinXiaoya_resume.pdf)
 
 ---
 
