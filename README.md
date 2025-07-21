@@ -45,8 +45,8 @@ I'm **Lin Xiaoya (林小雅)**, an aspiring researcher at [Nanyang Technological
 - Proposed sustainable strategies for Singapore transport
 
 ## 🌱 Community & Leadership  
-- NTU IET · Liaison Manager  
-- NTU IIC · Member  
+- NTU Institution of Engineering and Technology [IET](https://www.theiet.org/) · Liaison Manager  
+- NTU Investment Interactive Club [IIC](https://blogs.ntu.edu.sg/sao-ntuiic/) · Member  
 - CFLS-MUN · Academic Director  
   - Chaired 1,000+ participant MUN  
   - Led delegations to World & Yale MUN
