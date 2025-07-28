@@ -68,6 +68,8 @@ I'm **Lin Xiaoya (林小雅)**, an aspiring researcher at [Nanyang Technological
 ![Optuna](https://img.shields.io/badge/Optuna-HPO-lightgrey?style=for-the-badge)
 ![Keras Tuner](https://img.shields.io/badge/Keras_Tuner-Optimization-green?style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-Microframework-black?style=for-the-badge&logo=flask)
+![JupyterLab](https://img.shields.io/badge/JupyterLab-Interactive-orange?style=for-the-badge&logo=jupyter)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-Data%20Exploration-yellow?style=for-the-badge&logo=jupyter)
 
 ---
 
