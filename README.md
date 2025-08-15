@@ -5,7 +5,7 @@ I'm **Lin Xiaoya (林小雅)**, an aspiring researcher at [Nanyang Technological
 **Bachelor of Electrical & Electronic Engineering (Year 3)**  
 **Specialization:** Data Science and Machine Learning  
 **Research Interests:** Generative Visual Forensics · Deepfake Detection · Image Restoration · Visual Anomaly & Robust Generative Modeling  
-📄 [Lin Xiaoya's Curriculum Vitae](LinXiaoya_resume.pdf)
+📄 [Lin Xiaoya's Curriculum Vitae](LinXiaoya_Resume_Research.pdf)
 
 💬 **Languages**: English (en), 中文 (zh), Français (fr)  
 🧠 **Research Domains**: Visual ML · Trace-based Forensics · Healthcare AI · Image-Guided Modeling  
