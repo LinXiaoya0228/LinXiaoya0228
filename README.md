@@ -9,7 +9,7 @@ I'm **Lin Xiaoya (林小雅)**, an aspiring researcher at [Nanyang Technological
 
 💬 **Languages**: English (en), 中文 (zh), Français (fr)  
 🧠 **Research Domains**: Visual ML · Trace-based Forensics · Healthcare AI · Image-Guided Modeling  
-🎓 **Honors**: Dean’s List · NTU Science & Engineering Scholarship · ICUR Presenter
+🎓 **Honors**: Dean’s List · NTU Science & Engineering Scholarship · NTU President Research Scholar · ICUR Presenter
 
 
 ## 👩‍💻 Work Experience
