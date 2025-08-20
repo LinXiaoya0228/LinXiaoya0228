@@ -8,7 +8,7 @@ I'm **Lin Xiaoya (林小雅)**, an aspiring researcher at [Nanyang Technological
 📄 [Lin Xiaoya's Curriculum Vitae](LinXiaoya_Resume_Research.pdf)
 
 
-💬 **Languages**: English (en), 中文 (zh), Français (fr)  
+💬 **Languages**: English (en), 中文 (zh), Français (fr)  
 🎓 **Honors**: **Dean’s List** · **NTU Science & Engineering Scholarship** · **NTU President Research Scholar** · **ICUR Presenter**
 
 
