@@ -33,7 +33,7 @@ I'm **Lin Xiaoya (林小雅)**, an aspiring researcher at [Nanyang Technological
 
 ### URECA: AlzCare Smart Watch  
 - Spearheaded a team in the conceptual design and prototyping of an AI-powered wearable device for dementia patients, featuring real-time health monitoring, fall detection, and geofencing.
-- Collaborated with **SG Jamiyah Nursing Home** to define project requirements and evaluate initial design concepts.
+- Collaborated with SG Jamiyah Nursing Home to define project requirements and evaluate initial design concepts.
 
 ### Hotel Booking Forecasting  
 - Applied ensemble ML models with 91% accuracy  
