@@ -4,12 +4,12 @@ I'm **Lin Xiaoya (林小雅)**, an aspiring researcher at [Nanyang Technological
 ## 🎓 Education & Research Focus  
 **Bachelor of Electrical & Electronic Engineering (Year 3)**  
 **Specialization:** Data Science and Machine Learning  
-**Research Interests:** Generative Visual Forensics · Deepfake Detection · Image Restoration · Diffusion Model  
+**Research Interests:** Image Restoration · Diffusion Model · Deepfake Detection  
 📄 [Lin Xiaoya's Curriculum Vitae](LinXiaoya_Resume_Research.pdf)
 
-💬 **Languages**: English (en), 中文 (zh), Français (fr)  
-🧠 **Research Domains**: Visual ML · Trace-based Forensics · Healthcare AI · Image-Guided Modeling  
-🎓 **Honors**: Dean’s List · NTU Science & Engineering Scholarship · NTU President Research Scholar · ICUR Presenter
+
+💬 **Languages**: English (en), 中文 (zh), Français (fr)  
+🎓 **Honors**: **Dean’s List** · **NTU Science & Engineering Scholarship** · **NTU President Research Scholar** · **ICUR Presenter**
 
 
 ## 👩‍💻 Work Experience
@@ -24,17 +24,17 @@ I'm **Lin Xiaoya (林小雅)**, an aspiring researcher at [Nanyang Technological
 - Reduced runtime from hours to 4–8 mins, cutting storage by 90%
 
 ### Trace-to-Image ML Pipeline Development *(Ongoing)*
-- Converted traces into images (GAF, line charts); trained baseline RNNs  
-- Used Optuna & Keras-Tuner for pipeline optimization
+- Developed a novel **trace-to-image machine learning pipeline**(GAF), converting raw process data into image representations for improved Fault Detection and Classification (FDC).
+- Achieved baseline model accuracies of **97.0%, 97.0%, and 94.6%** across three distinct tool types, outperforming the conventional guard band method by **19.3%**.
 
 ### [Remote Photoplethysmography (rPPG) via Self-Supervised Learning](https://github.com/0228lin/remote-photoplethysmography-ssl)
 - Built self-supervised pipeline for heart rate estimation from facial video  
 - Used PhysNet + contrastive learning in frequency/temporal domains  
 - Achieved sub-30ms inference latency via PyTorch DDP
 
-### URECA: AlzCare Smart Watch *(Ongoing)*  
-- Developing AI wearable for dementia patients with geofencing & alerts  
-- Collaborating with SG Jamiyah Nursing Home & SG DementiaHub
+### URECA: AlzCare Smart Watch  
+- Spearheaded a team in the conceptual design and prototyping of an AI-powered wearable device for dementia patients, featuring real-time health monitoring, fall detection, and geofencing.
+- Collaborated with **SG Jamiyah Nursing Home** to define project requirements and evaluate initial design concepts.
 
 ### Hotel Booking Forecasting  
 - Applied ensemble ML models with 91% accuracy  
