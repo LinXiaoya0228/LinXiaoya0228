@@ -87,7 +87,7 @@ I'm **Lin Xiaoya (林小雅)**, an aspiring researcher at [Nanyang Technological
 
 
 ## 📌 Connect With Me  
-[Email](mailto:LINX0070@e.ntu.edu.sg) | [LinkedIn](https://www.linkedin.com/in/xiaoya-lin/) | [GitHub](https://github.com/0228lin) | [Wechat](wechat.png)
+[Email](mailto:LINX0070@e.ntu.edu.sg) | [LinkedIn](https://www.linkedin.com/in/xiaoya-lin/) | [GitHub](https://github.com/LinXiaoya0228) | [Wechat](wechat.png)
 
 ---
 
