@@ -3,6 +3,7 @@ I'm **Lin Xiaoya (林小雅)**, an aspiring researcher at [Nanyang Technological
 
 ## 🎓 Education & Research Focus  
 **Bachelor of Electrical & Electronic Engineering (Year 3)**  
+**CGPA: 4.86 (Highest Distinction Hornour)**  
 **Specialization:** Data Science and Machine Learning  
 **Research Interests:** Image Restoration · Diffusion Model · Deepfake Detection  
 **Languages**: English (en), 中文 (zh), Français (fr)  
