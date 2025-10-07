@@ -89,6 +89,54 @@ I'm **Lin Xiaoya (林小雅)**, an aspiring researcher at [Nanyang Technological
 ![MySQL](https://img.shields.io/badge/MySQL-Relational-blue?style=for-the-badge&logo=mysql)
 
 
+## 📜 Certifications & Skills
+
+### 🧠 Machine Learning & AI
+![Machine Learning - DeepLearning.AI](./ml-stanford.png)
+**Machine Learning** – DeepLearning.AI, Stanford University  
+Skills: Supervised & Unsupervised Learning · Neural Networks · Regularization · Bias-Variance Tradeoff · ML System Design
+
+---
+
+### 📊 Data Analytics & Visualization (Excel)
+![Excel Skills for Data Analytics](./excel-analytics.png)
+**Excel Skills for Data Analytics and Visualization** – Macquarie University  
+Skills: Pivot Tables · Dashboards · Conditional Formatting · Data Cleaning · Charting Techniques
+
+![Excel Fundamentals for Data Analysis](./excel-fundamentals.png)
+**Excel Fundamentals for Data Analysis** – Macquarie University  
+Grade: 95.43%  
+Skills: Lookup Functions · Logical Operators · Data Types · Spreadsheet Design
+
+![Excel Power Tools for Data Analysis](./excel-power-tools.png)
+**Excel Power Tools for Data Analysis** – Macquarie University  
+Grade: 91.40%  
+Skills: Power Query · Power Pivot · DAX · Data Modeling
+
+![Data Visualization in Excel](./excel-visualization.png)
+**Data Visualization in Excel** – Macquarie University  
+Grade: 91.50%  
+Skills: Advanced Charting · Interactive Dashboards · Storytelling with Data
+
+---
+
+### 📈 Statistical Analysis & Programming
+![Statistics and Data Analysis with R](./r-statistics.png)
+**Statistics and Data Analysis with R** – University of Colorado Boulder  
+Grade: 91.88%  
+Skills: Hypothesis Testing · Regression · ANOVA · Data Wrangling · ggplot2
+
+---
+
+### ☁️ Cloud Computing
+![Cloud Computing Foundations](./cloud-computing.png)
+**Cloud Computing Foundations** – Duke University  
+Grade: 97.50%  
+Skills: Cloud Architecture · Virtualization · SaaS vs IaaS · Scalability · Security Principles
+
+---
+
+
 
 ## 📌 Connect With Me  
 [Email](mailto:LINX0070@e.ntu.edu.sg) | [LinkedIn](https://www.linkedin.com/in/xiaoya-lin/) | [GitHub](https://github.com/LinXiaoya0228) | [Wechat](wechat.png)
