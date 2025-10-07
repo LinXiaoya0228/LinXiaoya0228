@@ -50,7 +50,7 @@ I'm **Lin Xiaoya (林小雅)**, an aspiring researcher at [Nanyang Technological
 
 ## 📜 Certifications & Skills
 
-### 🧠 Machine Learning & AI
+### 🧠 Machine Learning & Cloud
 
 <table cellspacing="20">
   <tr>
@@ -101,7 +101,7 @@ I'm **Lin Xiaoya (林小雅)**, an aspiring researcher at [Nanyang Technological
 
 ---
 
-### 📈 Statistical Analysis & Programming
+### 📈 Statistical Analysis & Programming (R)
 
 <table cellspacing="20">
   <tr>
