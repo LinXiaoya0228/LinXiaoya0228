@@ -48,20 +48,18 @@ I'm **Lin Xiaoya (林小雅)**, an aspiring researcher at [Nanyang Technological
 - Proposed sustainable strategies for Singapore transport
 
 
-
-
 ## 📜 Certifications & Skills
 
 ### 🧠 Machine Learning & AI
 
-<table>
+<table cellspacing="20">
   <tr>
-    <td width="50%" valign="top" style="padding-right: 20px; padding-bottom: 30px;">
+    <td width="50%" valign="top">
       <img src="./Certifications/ml-stanford.png" width="250"/>
       <br><strong>Machine Learning</strong> – DeepLearning.AI, Stanford University  
       <br><em>Skills:</em> Supervised & Unsupervised Learning · Neural Networks · Regularization · Bias-Variance Tradeoff · ML System Design
     </td>
-    <td width="50%" valign="top" style="padding-left: 20px; padding-bottom: 30px;">
+    <td width="50%" valign="top">
       <img src="./Certifications/cloud-computing.png" width="250"/>
       <br><strong>Cloud Computing Foundations</strong> – Duke University  
       <br><em>Grade:</em> 97.50%  
@@ -74,31 +72,28 @@ I'm **Lin Xiaoya (林小雅)**, an aspiring researcher at [Nanyang Technological
 
 ### 📊 Data Analytics & Visualization (Excel)
 
-<table>
+<table cellspacing="20">
   <tr>
-    <td width="50%" valign="top" style="padding-right: 20px; padding-bottom: 30px;">
+    <td width="50%" valign="top">
       <img src="./Certifications/excel-analytics.png" width="250"/>
       <br><strong>Excel Skills for Data Analytics and Visualization</strong> – Macquarie University  
       <br><em>Skills:</em> Pivot Tables · Dashboards · Conditional Formatting · Data Cleaning · Charting Techniques
     </td>
-    <td width="50%" valign="top" style="padding-left: 20px; padding-bottom: 30px;">
+    <td width="50%" valign="top">
       <img src="./Certifications/excel-fundamentals.png" width="250"/>
       <br><strong>Excel Fundamentals for Data Analysis</strong> – Macquarie University  
-      <br><em>Grade:</em> 95.43%  
       <br><em>Skills:</em> Lookup Functions · Logical Operators · Data Types · Spreadsheet Design
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top" style="padding-right: 20px; padding-bottom: 30px;">
+    <td width="50%" valign="top">
       <img src="./Certifications/excel-power-tools.png" width="250"/>
       <br><strong>Excel Power Tools for Data Analysis</strong> – Macquarie University  
-      <br><em>Grade:</em> 91.40%  
       <br><em>Skills:</em> Power Query · Power Pivot · DAX · Data Modeling
     </td>
-    <td width="50%" valign="top" style="padding-left: 20px; padding-bottom: 30px;">
+    <td width="50%" valign="top">
       <img src="./Certifications/excel-visualization.png" width="250"/>
       <br><strong>Data Visualization in Excel</strong> – Macquarie University  
-      <br><em>Grade:</em> 91.50%  
       <br><em>Skills:</em> Advanced Charting · Interactive Dashboards · Storytelling with Data
     </td>
   </tr>
@@ -108,12 +103,16 @@ I'm **Lin Xiaoya (林小雅)**, an aspiring researcher at [Nanyang Technological
 
 ### 📈 Statistical Analysis & Programming
 
-<div style="margin-bottom: 30px;">
-  <img src="./Certifications/r-statistics.png" width="250"/>
-  <br><strong>Statistics and Data Analysis with R</strong> – University of Colorado Boulder  
-  <br><em>Grade:</em> 91.88%  
-  <br><em>Skills:</em> Hypothesis Testing · Regression · ANOVA · Data Wrangling · ggplot2
-</div>
+<table cellspacing="20">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="./Certifications/r-statistics.png" width="250"/>
+      <br><strong>Statistics and Data Analysis with R</strong> – University of Colorado Boulder  
+      <br><em>Skills:</em> Hypothesis Testing · Regression · ANOVA · Data Wrangling · ggplot2
+    </td>
+  </tr>
+</table>
+
 
 
 ## 🧰 Featured Technologies & Tools  
