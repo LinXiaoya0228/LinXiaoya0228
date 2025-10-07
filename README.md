@@ -19,14 +19,16 @@ I'm **Lin Xiaoya (林小雅)**, an aspiring researcher at [Nanyang Technological
 
 
 ## 🔬 Selected Projects
+### Trace-to-Image ML Pipeline Development *(Ongoing)*
+- Developed a novel **trace-to-image machine learning pipeline**(GAF), converting time-series data into image representations for improved Fault Detection and Classification (FDC)
+- Built a supervised CNN model that achieved baseline accuracies of **97.0%, 97.0%, and 99.0%** across three distinct tool types, outperforming the conventional guard band method by **19.3%**
+- Engineered a scalable hybrid anomaly detection model combining Guard-band filtering with One-Class SVM, achieving 95.05% accuracy
+
+  
 ### Scalable Data Pipeline & Compression (FDCDataExtractor)
 - Developed multi-month modular pipelines with AWS & PySpark  
 - Reduced runtime from hours to 4–8 mins, cutting storage by 90%
 
-### Trace-to-Image ML Pipeline Development *(Ongoing)*
-- Developed a novel **trace-to-image machine learning pipeline**(GAF), converting raw process data into image representations for improved Fault Detection and Classification (FDC).
-- Built a supervised CNN model that achieved baseline accuracies of **97.0%, 97.0%, and 99.0%** across three distinct tool types, outperforming the conventional guard band method by **19.3%**..
-- Designed and implemented one-class anomaly detection models for broad, unsupervised anomaly detection, laying the groundwork for a hybrid system.
 
 ### [Remote Photoplethysmography (rPPG) via Self-Supervised Learning](https://github.com/0228lin/remote-photoplethysmography-ssl)
 - Built self-supervised pipeline for heart rate estimation from facial video  
