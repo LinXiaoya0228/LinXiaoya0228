@@ -34,7 +34,7 @@ I'm **Lin Xiaoya (林小雅)**, an aspiring researcher at [Nanyang Technological
 - Enabled **multi-tool, multi-month analysis** with schema alignment and long-to-wide transformation, reducing extraction time from **hours to 4–8 minutes**. 
 - Achieved **90% storage reduction**, eliminated memory crashes, and unlocked parameter-level filtering for engineers.
 
-**Project 2: Hybrid Fault Detection via Trace-to-Image Machine Learning Model**  
+**Project 2: [Hybrid Fault Detection via Trace-to-Image Machine Learning Model](https://github.com/LinXiaoya0228/semiconductor-fault-detection)**  
 - Developed a **two-stage Guard-band + OC-SVM architecture** for unsupervised fault detection in semiconductor manufacturing. 
 - Converted time-series traces into **Gramian Angular Field (GAF)** images for ML-based classification.
 - Addressed training contamination and subtle anomaly detection through statistical filtering and image-based encoding. 
