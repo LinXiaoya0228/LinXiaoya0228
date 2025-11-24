@@ -29,7 +29,7 @@ I'm **Lin Xiaoya (林小雅)**, an aspiring researcher at [Nanyang Technological
 *May 2025 – Dec 2025 | Singapore*  
 **Research Focus: Intelligent Data Engineering for Scalable Analysis and Visual ML**
 
-**Project 1: Scalable Trace Data Pipeline & Compression for Semiconductor Analytics**  
+**Project 1: [Scalable Trace Data Pipeline & Compression for Semiconductor Analytics](https://github.com/LinXiaoya0228/FDCDataExtractor)**  
 - Designed and deployed a modular pipeline using **AWS S3**, **PySpark**, **Parquet** and **Snappy** to process multi-month trace data across tools.  
 - Enabled **multi-tool, multi-month analysis** with schema alignment and long-to-wide transformation, reducing extraction time from **hours to 4–8 minutes**. 
 - Achieved **90% storage reduction**, eliminated memory crashes, and unlocked parameter-level filtering for engineers.
