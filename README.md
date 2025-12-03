@@ -141,15 +141,6 @@ NTU President Research Scholar | NTU Science & Engineering Scholarship Recipient
 
 ---
 
-## 🔬 Research & Academic Gallery
-
-| **A*STAR & NHG Healthcare Data** | **AlzCare Smart Watch** | **Hotel Booking AI** |
-|:---:|:---:|:---:|
-| <img src="https://cdn-icons-png.flaticon.com/512/2854/2854228.png" width="80"> | <img src="https://cdn-icons-png.flaticon.com/512/3004/3004458.png" width="80"> | <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="80"> |
-| **Research Intern** | **URECA Team Lead** | **Course Project Lead** |
-| Developed **rPPG feature preservation** workflows for anonymized medical datasets. Influenced SG NHG data governance strategies. | Prototyped an AI-wearable for dementia patients. Conducted user research and collaboration with **Jamiyah Nursing Home**. | Achieved **91% accuracy** in cancellation forecasting using **TensorFlow** & Batch Normalization. |
-
----
 ### AlzCare: AI-Powered Dementia Care Platform
 
 
@@ -167,8 +158,8 @@ NTU President Research Scholar | NTU Science & Engineering Scholarship Recipient
       <p><em>Presented at the <strong>International Conference of Undergraduate Research (ICUR) 2025</strong></em></p>
     </td>
     <td width="50%" valign="top" align="center" style="border: none;">
-      <a href="https://youtu.be/cTcKATnbVJQ" target="_blank" title="Click to Watch Demo">
-        <img src="assests/AlzCare_demo.gif" alt="AlzCare Demo" style="width: 100%; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+      <a href="https://youtu.be/cTcKATnbVJQ" target="_blank" title="Click to Watch Full Demo">
+        <img src="assets/AlzCare_demo.gif" alt="AlzCare Demo" style="width: 100%; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
       </a>
       <p style="margin-top: 5px; color: #0366d6; font-weight: bold; font-size: 0.9em;">▶ Click to Watch Demo</p>
     </td>
@@ -236,6 +227,7 @@ NTU President Research Scholar | NTU Science & Engineering Scholarship Recipient
     </td>
   </tr>
 </table>
+
 ---
 
 ## 🌱 Community & Leadership
