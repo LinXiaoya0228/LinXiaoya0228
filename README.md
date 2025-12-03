@@ -14,7 +14,7 @@
 
 <br>
 
-**Nanyang Technological University (NTU)** | CGPA: **4.89** (Highest Distinction Honour) | Dean's List AY 23-24, 24-25 (Top 5%)
+**Nanyang Technological University (NTU)** | CGPA: **4.89** (Highest Distinction Honour) | **Dean's List** AY 23-24, 24-25 (Top 5%)
 <br>
 NTU President Research Scholar | NTU Science & Engineering Scholarship Recipient | Presenter at ICUR 2025
 
@@ -29,7 +29,7 @@ NTU President Research Scholar | NTU Science & Engineering Scholarship Recipient
 <table width="100%">
   <tr>
     <td width="55%">
-      <h3>1. Scalable Trace Data Pipeline & Compression</h3>
+      <h3>1. Scalable Trace Data ETL Pipeline</h3>
       <p>
         <strong>The Problem:</strong> Processing multi-month sensor traces caused memory crashes and took hours.<br>
         [cite_start]<strong>The Solution:</strong> Built a scalable ETL pipeline using <code>AWS SageMaker</code>, <code>PySpark</code>, and <code>Snappy</code> compression[cite: 19].
