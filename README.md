@@ -231,69 +231,6 @@ NTU President Research Scholar | NTU Science & Engineering Undergraduate Scholar
       <h3>1. Scalable Trace Data Pipeline & Compression</h3>
       <p>
         <strong>The Problem:</strong> Processing multi-month sensor traces caused memory crashes and took hours.<br>
-        <strong>The Solution:</strong> Built a scalable ETL pipeline using <code>AWS SageMaker</code>, <code>PySpark</code>, and <code>Snappy</code> compression.
-      </p>
-      <ul>
-        <li>📉 <strong>90%</strong> Reduction in storage file size.</li>
-        <li>⚡ <strong>97%</strong> Faster data extraction time.</li>
-        <li>🛠 <strong>Tech:</strong> PySpark, AWS Boto3, Parquet.</li>
-      </ul>
-      <br>
-       <blockquote>
-        "The solution developed addressed scalability issues... resulted in 90% reduction in file size."<br>
-        — <em>Khoo Yong, MTS, GlobalFoundries</em>
-      </blockquote>
-      <br>
-      <a href="https://github.com/LinXiaoya0228/FDCDataExtractor">
-        <img src="https://img.shields.io/badge/View_Repository-Code-blue?style=for-the-badge&logo=github">
-      </a>
-    </td>
-    <td width="45%">
-      <img src="assets/trace-pipeline.gif" width="100%" alt="Trace Pipeline Demo"/>
-    </td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
-    <td width="55%">
-      <h3>2. Trace-to-Image Fault Detection (GAF-CNN)</h3>
-      <p>
-        <strong>The Problem:</strong> Existing methods were not suitable for classifying unlabeled equipment parameter traces.<br>
-        <strong>The Solution:</strong> Engineered a novel ensembled method of <strong>Guard-Band + OC-SVM</strong> using Gramian Angular Fields (GAF).
-      </p>
-      <ul>
-        <li>🎯 <strong>95%</strong> Accuracy (Outperforming Guard-Band by 14%).</li>
-        <li>🛡 <strong>Valid</strong> for unlabeled anomalies.</li>
-        <li>🖼 <strong>Tech:</strong> Python, GAF Imaging, CNN, Autoencoders.</li>
-      </ul>
-      <br>
-       <blockquote>
-        "Her final model achieved a higher accuracy than traditional Guard-Band method by 14%."<br>
-        — <em>Khoo Yong, MTS, GlobalFoundries</em>
-      </blockquote>
-      <br>
-      <a href="https://github.com/LinXiaoya0228/semiconductor-fault-detection">
-        <img src="https://img.shields.io/badge/View_Repository-Code-blue?style=for-the-badge&logo=github">
-      </a>
-    </td>
-    <td width="45%">
-      <img src="assets/fault-detection.gif" width="100%" alt="Fault Detection Visualization"/>
-    </td>
-  </tr>
-</table>
-
-
-## 🚀 Industrial Engineering Highlights (GlobalFoundries)
-
-> *During my 7-month internship at GlobalFoundries, I combined technical innovation with rigorous research to resolve complex engineering challenges. Below are the visual demonstrations of these pipelines.*
-
-<table width="100%">
-  <tr>
-    <td width="55%">
-      <h3>1. Scalable Trace Data Pipeline & Compression</h3>
-      <p>
-        <strong>The Problem:</strong> Processing multi-month sensor traces caused memory crashes and took hours.<br>
         [cite_start]<strong>The Solution:</strong> Built a scalable ETL pipeline using <code>AWS SageMaker</code>, <code>PySpark</code>, and <code>Snappy</code> compression[cite: 19].
       </p>
       <ul>
