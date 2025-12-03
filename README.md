@@ -32,7 +32,7 @@ NTU President Research Scholar | NTU Science & Engineering Scholarship Recipient
       <h3>1. Scalable Trace Data ETL Pipeline</h3>
       <p>
         <strong>The Problem:</strong> Processing multi-month sensor traces caused memory crashes and took hours.<br>
-        [cite_start]<strong>The Solution:</strong> Built a scalable ETL pipeline using <code>AWS SageMaker</code>, <code>PySpark</code>, and <code>Snappy</code> compression[cite: 19].
+        <strong>The Solution:</strong> Built a scalable ETL pipeline using <code>AWS SageMaker</code>, <code>PySpark</code>, and <code>Snappy</code> compression.
       </p>
       <ul>
         <li>📉 <strong>90%</strong> Reduction in storage file size.</li>
@@ -42,7 +42,7 @@ NTU President Research Scholar | NTU Science & Engineering Scholarship Recipient
       <br>
       <blockquote>
         "The solution developed addressed scalability issues... resulted in 90% reduction in file size."<br>
-        [cite_start]— <em>Khoo Yong, MTS, GlobalFoundries</em> [cite: 46, 47]
+        — <em>Khoo Yong, MTS, GlobalFoundries</em> 
       </blockquote>
       <br>
       <a href="https://github.com/LinXiaoya0228/FDCDataExtractor">
@@ -61,7 +61,7 @@ NTU President Research Scholar | NTU Science & Engineering Scholarship Recipient
       <h3>2. Trace-to-Image Fault Detection (GAF-CNN)</h3>
       <p>
         <strong>The Problem:</strong> Existing methods were not suitable for classifying unlabeled equipment parameter traces.<br>
-        [cite_start]<strong>The Solution:</strong> Engineered a novel ensembled method of <strong>Guard-Band + OC-SVM</strong> using Gramian Angular Fields (GAF)[cite: 20, 22].
+        <strong>The Solution:</strong> Engineered a novel ensembled method of <strong>Guard-Band + OC-SVM</strong> using Gramian Angular Fields (GAF).
       </p>
       <ul>
         <li>🎯 <strong>95%</strong> Accuracy (Outperforming Guard-Band by 14%).</li>
@@ -71,7 +71,7 @@ NTU President Research Scholar | NTU Science & Engineering Scholarship Recipient
       <br>
       <blockquote>
         "Her final model achieved a higher accuracy than traditional Guard-Band method by 14%."<br>
-        [cite_start]— <em>Khoo Yong, MTS, GlobalFoundries</em> [cite: 50]
+        — <em>Khoo Yong, MTS, GlobalFoundries</em> 
       </blockquote>
       <br>
       <a href="https://github.com/LinXiaoya0228/semiconductor-fault-detection">
