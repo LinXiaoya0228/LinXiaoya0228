@@ -203,168 +203,19 @@ I'm **Lin Xiaoya (林小雅)**, an aspiring researcher at [Nanyang Technological
 You can click the Preview link to take a look at your changes.
 --->
 
-<div align="center">
-
-# Hi there, I'm Lin Xiaoya (林小雅) 👋
-
-### Data Scientist & Researcher | Specialized in Semiconductor AI & Healthcare
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/xiaoya-lin/)
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:linx0070@e.ntu.edu.sg)
-[![Website Badge](https://img.shields.io/badge/-Personal%20Site-101010?style=flat&logo=github&logoColor=white)](https://linxiaoya0228.github.io)
-
-**Nanyang Technological University (NTU)** | CGPA: **4.89** (Highest Distinction) | Dean's List (Top 5%)
-
-</div>
-
----
-
-## 🚀 Industrial Engineering Highlights (GlobalFoundries)
-
-> [cite_start]*During my 7-month internship at GlobalFoundries, I combined technical innovation with rigorous research to resolve complex engineering challenges[cite: 44]. Below are the visual demonstrations of these pipelines.*
-
-<table width="100%">
-  <tr>
-    <td width="55%">
-      <h3>1. Scalable Trace Data Pipeline & Compression</h3>
-      <p>
-        <strong>The Problem:</strong> Processing multi-month sensor traces caused memory crashes and took hours.<br>
-        [cite_start]<strong>The Solution:</strong> Built a scalable ETL pipeline using <code>AWS SageMaker</code>, <code>PySpark</code>, and <code>Snappy</code> compression[cite: 46].
-      </p>
-      <ul>
-        <li>📉 <strong>90%</strong> Reduction in storage file size[cite: 47].</li>
-        <li>⚡ <strong>97%</strong> Faster data extraction time[cite: 47].</li>
-        <li>🛠 <strong>Tech:</strong> PySpark, AWS Boto3, Parquet.</li>
-      </ul>
-      <br>
-       <blockquote>
-        "The solution developed addressed scalability issues... resulted in 90% reduction in file size."<br>
-        — <em>Khoo Yong, MTS, GlobalFoundries [cite: 46, 47, 57]</em>
-      </blockquote>
-      <br>
-      <a href="https://github.com/LinXiaoya0228/FDCDataExtractor">
-        <img src="https://img.shields.io/badge/View_Repository-Code-blue?style=for-the-badge&logo=github">
-      </a>
-    </td>
-    <td width="45%">
-      <img src="assets/trace-pipeline.gif" width="100%" alt="Trace Pipeline Demo"/>
-    </td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
-    <td width="55%">
-      <h3>2. Trace-to-Image Fault Detection (GAF-CNN)</h3>
-      <p>
-        <strong>The Problem:</strong> Existing methods were not suitable for classifying unlabeled equipment parameter traces[cite: 49].<br>
-        <strong>The Solution:</strong> Engineered a novel ensembled method of <strong>Guard-Band + OC-SVM</strong> using Gramian Angular Fields (GAF)[cite: 49].
-      </p>
-      <ul>
-        <li>🎯 <strong>95%</strong> Accuracy (Outperforming Guard-Band by 14%)[cite: 50].</li>
-        <li>🛡 <strong>Valid</strong> for unlabeled anomalies[cite: 49].</li>
-        <li>🖼 <strong>Tech:</strong> Python, GAF Imaging, CNN, Autoencoders.</li>
-      </ul>
-      <br>
-       <blockquote>
-        "Her final model achieved a higher accuracy than traditional Guard-Band method by 14%."<br>
-        — <em>Khoo Yong, MTS, GlobalFoundries [cite: 50, 57]</em>
-      </blockquote>
-      <br>
-      <a href="https://github.com/LinXiaoya0228/semiconductor-fault-detection">
-        <img src="https://img.shields.io/badge/View_Repository-Code-blue?style=for-the-badge&logo=github">
-      </a>
-    </td>
-    <td width="45%">
-      <img src="assets/fault-detection.gif" width="100%" alt="Fault Detection Visualization"/>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🏆 Recommendation Letter
-
-<table width="100%">
-  <tr>
-    <td width="70%" valign="top">
-      <h3>Endorsement from Internship Supervisor</h3>
-      <p>My work was supervised by Mr. Khoo Yong (Member of Technical Staff, GlobalFoundries)[cite: 44, 57].</p>
-      <blockquote>
-        "I was able to observe first-hand her ability to combine technical innovation with rigorous research capability... I am confident she will excel in her PhD program and in future Data Science/ Engineering roles." [cite: 44, 54]
-      </blockquote>
-    </td>
-    <td width="30%" valign="top" align="center">
-      <a href="assets/recommendation-letter.png">
-        <img src="assets/recommendation-letter.png" width="150" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); border-radius: 5px;" alt="Recommendation Letter Preview">
-      </a>
-      <br>
-      <sub>Click to read full letter</sub>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🔬 Research & Academic Gallery
-
-| **A*STAR Healthcare Data** | **AlzCare Smart Watch** | **Hotel Booking AI** |
-|:---:|:---:|:---:|
-| <img src="https://cdn-icons-png.flaticon.com/512/2854/2854228.png" width="80"> | <img src="https://cdn-icons-png.flaticon.com/512/3004/3004458.png" width="80"> | <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="80"> |
-| **Research Intern** | **URECA Team Lead** | **Course Project Lead** |
-| Developed **rPPG feature preservation** workflows for anonymized medical datasets. Influenced NHG data governance strategies. | Prototyped an AI-wearable for dementia patients. Conducted user research at **Jamiyah Nursing Home**. | Achieved **91% accuracy** in cancellation forecasting using **TensorFlow** & Batch Normalization. |
-
----
-
-## 🛠 Tech Stack & Tools
-
-<details>
-  <summary><strong>📚 Click to view Certifications</strong></summary>
-  <br>
-  <ul>
-    <li><strong>Machine Learning</strong> (Stanford University/DeepLearning.AI)</li>
-    <li><strong>Cloud Computing Foundations</strong> (Duke University) - <em>97.5% Grade</em></li>
-    <li><strong>Excel Skills for Data Analytics</strong> (Macquarie University)</li>
-    <li><strong>Statistics with R</strong> (University of Colorado Boulder)</li>
-  </ul>
-</details>
-
-<br>
-
-**Languages**
-![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-Data%20Science-blueviolet?logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Database-grey?logo=mysql&logoColor=white)
-
-**Machine Learning & Vision**
-![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red?logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Neural%20Nets-orange?logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-yellow?logo=scikitlearn&logoColor=white)
-
-**Big Data & Cloud**
-![PySpark](https://img.shields.io/badge/PySpark-Big%20Data-E25A1C?logo=apachespark&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-S3%20%7C%20SageMaker-232F3E?logo=amazon&logoColor=white)
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LinXiaoya0228&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinXiaoya0228&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-  <br>
-  <sub>Last Updated: Dec 2025 | 📍 Singapore</sub>
-</div>
 
 <div align="center">
 
 # Hi there, I'm Lin Xiaoya (林小雅) 👋
 
-### Data Scientist & Researcher | Specialized in Semiconductor AI & Healthcare
+### Data Scientist & Researcher | Specialized in Data Science & Machine Learning
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/xiaoya-lin/)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:linx0070@e.ntu.edu.sg)
 [![Website Badge](https://img.shields.io/badge/-Personal%20Site-101010?style=flat&logo=github&logoColor=white)](https://linxiaoya0228.github.io)
 
-**Nanyang Technological University (NTU)** | CGPA: **4.89** (Highest Distinction) | Dean's List (Top 5%)
+**Nanyang Technological University (NTU)** | CGPA: **4.89** (Highest Distinction Honour) | Dean's List AY 23-24, 24-25 (Top 5%)  
+NTU President Research Scholar | NTU Science & Engineering Undergraduate Scholarship Recipient | Presenter at ICUR 2025
 
 </div>
 
@@ -463,7 +314,7 @@ You can click the Preview link to take a look at your changes.
 |:---:|:---:|:---:|
 | <img src="https://cdn-icons-png.flaticon.com/512/2854/2854228.png" width="80"> | <img src="https://cdn-icons-png.flaticon.com/512/3004/3004458.png" width="80"> | <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="80"> |
 | **Research Intern** | **URECA Team Lead** | **Course Project Lead** |
-| Developed **rPPG feature preservation** workflows for anonymized medical datasets. Influenced NHG data governance strategies. | Prototyped an AI-wearable for dementia patients. Conducted user research at **Jamiyah Nursing Home**. | Achieved **91% accuracy** in cancellation forecasting using **TensorFlow** & Batch Normalization. |
+| Developed **rPPG feature preservation** workflows for anonymized medical datasets. Influenced NHG data governance strategies. | Prototyped an AI-wearable for dementia patients. Conducted user research and collaboration with **Jamiyah Nursing Home**. | Achieved **91% accuracy** in cancellation forecasting using **TensorFlow** & Batch Normalization. |
 
 ---
 
@@ -473,26 +324,28 @@ You can click the Preview link to take a look at your changes.
   <tr>
     <td align="center" width="20%">
       <img src="assets/six-sigma-logo.png" width="50" alt="Six Sigma"><br>
-      <strong>Lean Six Sigma</strong><br>Yellow Belt
+      <strong>Lean Six Sigma Yellow Belt</strong><br>
     </td>
     <td align="center" width="20%">
-      <img src="assets/stanford-logo.png" width="50" alt="Stanford"><br>
-      <strong>Machine Learning</strong><br>Stanford (DeepLearning.AI)
+      <img src="./Certifications/ml-stanford.png" width="50" alt="Stanford"><br>
+      <strong>Machine Learning</strong><br>Supervised & Unsupervised Learning · Neural Networks · Regularization · Bias-Variance Tradeoff · ML System Design
     </td>
     <td align="center" width="20%">
-      <img src="assets/duke-logo.png" width="50" alt="Duke"><br>
-      <strong>Cloud Computing</strong><br>Duke University (97.5%)
+      <img src="./Certifications/cloud-computing.png" width="50" alt="Duke"><br>
+      <strong>Cloud Computing</strong><br>Cloud Architecture · Virtualization · SaaS vs IaaS · Docker · CI/CD Pipeline · Containerization
     </td>
     <td align="center" width="20%">
-      <img src="assets/macquarie-logo.png" width="50" alt="Macquarie"><br>
-      <strong>Excel Analytics</strong><br>Macquarie University
+      <img src="./Certifications/excel-specialization.png" width="50" alt="Macquarie"><br>
+      <strong>Excel Analytics</strong><br>Advanced Charting · Interactive Dashboards · Storytelling with Data
     </td>
     <td align="center" width="20%">
-      <img src="assets/colorado-logo.png" width="50" alt="Colorado"><br>
-      <strong>Statistics (R)</strong><br>Univ. of Colorado
+      <img src="./Certifications/r-statistics.png" width="50" alt="Colorado"><br>
+      <strong>Statistics (R)</strong><br>Hypothesis Testing · Regression · ANOVA · Data Wrangling · ggplot2
     </td>
   </tr>
 </table>
+
+
 
 ---
 
