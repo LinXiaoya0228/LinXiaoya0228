@@ -262,9 +262,16 @@ NTU President Research Scholar | NTU Science & Engineering Scholarship Recipient
 
 ---
 
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LinXiaoya0228&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinXiaoya0228&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=LinXiaoya0228&show_icons=true&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinXiaoya0228&layout=compact&theme=radical&hide_border=true" />
+  </a>
+  
   <br>
+  
   <sub>Last Updated: Dec 2025 | 📍 Singapore</sub>
 </div>
