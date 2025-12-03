@@ -22,7 +22,10 @@ NTU President Research Scholar | NTU Science & Engineering Scholarship Recipient
 
 ---
 
-## 🚀 Industrial Engineering Highlights (GlobalFoundries)
+# 🚀 Research & Professional Experience
+
+## GlobalFoundries | Data Scientist Intern
+*May 2025 – Dec 2025 | Singapore*
 
 > *During my 7-month internship at GlobalFoundries, I combined technical innovation with rigorous research to resolve complex engineering challenges. Below are the visual demonstrations of these pipelines.*
 
@@ -109,15 +112,32 @@ NTU President Research Scholar | NTU Science & Engineering Scholarship Recipient
 
 ---
 
-## 📂 Other Professional Experience
+## A*STAR | Healthcare Data Research Intern
+*Jan 2025 – Apr 2025 | Singapore*
 
-### **Shenzhen InnoX Academy – Market Data Analyst Intern**
+**Project: Anonymization Workflows for Confidential Medical Datasets (SG National Healthcare Group Collab)**
+* Co-led a team of 5 in a collaboration with **SG National Healthcare Group (NHG)** to anonymize facial healthcare datasets for AI validation.
+* Addressed the trade-off between data utility and patient privacy, a core challenge in observational healthcare data.
+* Performed feature preservation analysis through rPPG-tool to optimize preprocessing for downstream AI performance.
+* Presented findings on healthcare optimization workflows to clinical and technical stakeholders, influencing future data governance strategies.
+
+
+---
+
+## Shenzhen InnoX Academy | Market Data Analyst Intern
 *Dec 2025 – Feb 2026 | Hybrid*
 
-* Supported a startup’s **global expansion** by integrating market insights with business strategy.
-* Conducted **competitive monitoring**, user behavior tracking, and sentiment analysis.
-* Utilized **Tableau and Excel** for data visualization to support cross-functional decisions (Product/Ops/Marketing).
-* Led **industry research** through expert interviews and contributed to the strategy for **CES 2026 (Los Angeles)**.
+* Supported a startup’s global expansion by integrating market insights with business strategy.
+* Utilized **Tableau and Excel** for data visualization to support cross-functional decisions.
+* Led industry research through expert interviews and contributed to the strategy for **CES 2026 (Los Angeles)**.
+
+---
+
+## Classbro (Shanghai DAOBI EdTech) | Data Science Instructor
+*Jun 2024 – Dec 2024 | Hybrid*
+
+* Developed and delivered bilingual lectures on core ML algorithms and SQL
+* Designed course content that contributed **SGD 10,000+ revenue growth**
 
 ---
 
@@ -130,6 +150,52 @@ NTU President Research Scholar | NTU Science & Engineering Scholarship Recipient
 | Developed **rPPG feature preservation** workflows for anonymized medical datasets. Influenced SG NHG data governance strategies. | Prototyped an AI-wearable for dementia patients. Conducted user research and collaboration with **Jamiyah Nursing Home**. | Achieved **91% accuracy** in cancellation forecasting using **TensorFlow** & Batch Normalization. |
 
 ---
+### AlzCare: AI-Powered Dementia Care Platform
+
+
+<table style="border: none; border-collapse: collapse; width: 100%;">
+  <tr>
+    <td width="50%" valign="top" style="padding-right: 20px; border: none;">
+      <p><strong>The Problem:</strong> Dementia patients face risks of wandering, missed medication, and delayed health intervention.<br>
+      <strong>The Solution:</strong> Developed an all-in-one web platform integrating <code>Geofencing</code>, <code>AI Health Reporting</code>, and <code>Automated Reminders</code>.</p>
+      <ul>
+        <li>📍 <strong>Geofencing:</strong> Real-time wandering alerts using Google Maps API & WebSockets</li>
+        <li>🧠 <strong>Health Analytics:</strong> AI-driven insights for early intervention</li>
+        <li>📅 <strong>Smart Scheduling:</strong> Auto-syncs with Google Calendar for medication reminders</li>
+      </ul>
+      <p><strong>Tech Stack:</strong> React.js · Node.js · Google Maps API</p>
+      <p><em>Presented at the <strong>International Conference of Undergraduate Research (ICUR) 2025</strong></em></p>
+    </td>
+    <td width="50%" valign="top" align="center" style="border: none;">
+      <a href="https://youtu.be/cTcKATnbVJQ" target="_blank" title="Click to Watch Demo">
+        <img src="assests/AlzCare_demo.gif" alt="AlzCare Demo" style="width: 100%; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+      </a>
+      <p style="margin-top: 5px; color: #0366d6; font-weight: bold; font-size: 0.9em;">▶ Click to Watch Demo</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top" align="center" style="border: none; padding-top: 15px;">
+      <a href="./Certifications/icur-poster.png" target="_blank" title="Click to view Poster">
+        <img src="./Certifications/icur-poster.png" alt="ICUR Poster" style="height: 200px; width: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
+      </a>
+      <p style="margin-top: 5px; font-size: 0.9em;">📄 View Poster</p>
+    </td>
+    <td width="50%" valign="top" align="center" style="border: none; padding-top: 15px;">
+      <a href="./Certifications/icur-cert.png" target="_blank" title="Click to view Certificate">
+        <img src="./Certifications/icur-cert.png" alt="ICUR Certificate" style="height: 200px; width: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
+      </a>
+      <p style="margin-top: 5px; font-size: 0.9em;">🏆 View Certificate</p>
+    </td>
+  </tr>
+</table>
+
+### Hotel Booking Trends & Cancellation Forecast
+**Course Project Lead**
+* Led a 4-member team to analyze booking behavior and predict cancellations.
+* Optimized model to **91% accuracy** using **TensorFlow**, L2 regularization, and Batch Normalization.
+* Delivered visual storytelling insights to 50+ course instructors and peers.
+
 
 
 ## 📜 Certifications
