@@ -283,6 +283,68 @@ NTU President Research Scholar | NTU Science & Engineering Undergraduate Scholar
   </tr>
 </table>
 
+
+## 🚀 Industrial Engineering Highlights (GlobalFoundries)
+
+> *During my 7-month internship at GlobalFoundries, I combined technical innovation with rigorous research to resolve complex engineering challenges. Below are the visual demonstrations of these pipelines.*
+
+<table width="100%">
+  <tr>
+    <td width="55%">
+      <h3>1. Scalable Trace Data Pipeline & Compression</h3>
+      <p>
+        <strong>The Problem:</strong> Processing multi-month sensor traces caused memory crashes and took hours.<br>
+        [cite_start]<strong>The Solution:</strong> Built a scalable ETL pipeline using <code>AWS SageMaker</code>, <code>PySpark</code>, and <code>Snappy</code> compression[cite: 19].
+      </p>
+      <ul>
+        <li>📉 <strong>90%</strong> Reduction in storage file size.</li>
+        <li>⚡ <strong>97%</strong> Faster data extraction time.</li>
+        <li>🛠 <strong>Tech:</strong> <code>PySpark</code>, <code>AWS S3/Boto3</code>, <code>Parquet + Snappy</code>, <code>ETL Optimization</code>.</li>
+      </ul>
+      <br>
+      <blockquote>
+        "The solution developed addressed scalability issues... resulted in 90% reduction in file size."<br>
+        [cite_start]— <em>Khoo Yong, MTS, GlobalFoundries</em> [cite: 46, 47]
+      </blockquote>
+      <br>
+      <a href="https://github.com/LinXiaoya0228/FDCDataExtractor">
+        <img src="https://img.shields.io/badge/View_Repository-Code-blue?style=for-the-badge&logo=github">
+      </a>
+    </td>
+    <td width="45%">
+      <img src="assets/FDCDataExtractor_brief.gif" width="100%" alt="Trace Pipeline Demo"/>
+    </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td width="55%">
+      <h3>2. Trace-to-Image Fault Detection (GAF-CNN)</h3>
+      <p>
+        <strong>The Problem:</strong> Existing methods were not suitable for classifying unlabeled equipment parameter traces.<br>
+        [cite_start]<strong>The Solution:</strong> Engineered a novel ensembled method of <strong>Guard-Band + OC-SVM</strong> using Gramian Angular Fields (GAF)[cite: 20, 22].
+      </p>
+      <ul>
+        <li>🎯 <strong>95%</strong> Accuracy (Outperforming Guard-Band by 14%).</li>
+        <li>🛡 <strong>Valid</strong> for unlabeled anomalies (Zero False Alarms).</li>
+        <li>🛠 <strong>Tech:</strong> <code>Python (PyTorch)</code>, <code>Gramian Angular Fields (GAF)</code>, <code>CNN</code>, <code>One-Class SVM</code>.</li>
+      </ul>
+      <br>
+      <blockquote>
+        "Her final model achieved a higher accuracy than traditional Guard-Band method by 14%."<br>
+        [cite_start]— <em>Khoo Yong, MTS, GlobalFoundries</em> [cite: 50]
+      </blockquote>
+      <br>
+      <a href="https://github.com/LinXiaoya0228/semiconductor-fault-detection">
+        <img src="https://img.shields.io/badge/View_Repository-Code-blue?style=for-the-badge&logo=github">
+      </a>
+    </td>
+    <td width="45%">
+      <img src="assets/HybridModel.gif" width="100%" alt="Fault Detection Visualization"/>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🏆 Recommendation Letter
@@ -297,8 +359,8 @@ NTU President Research Scholar | NTU Science & Engineering Undergraduate Scholar
       </blockquote>
     </td>
     <td width="30%" valign="top" align="center">
-      <a href="assets/recommendation-letter.png">
-        <img src="assets/recommendation-letter.png" width="150" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); border-radius: 5px;" alt="Recommendation Letter Preview">
+      <a href="assets/recommendation_letter.png">
+        <img src="assets/recommendation_letter.png" width="150" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); border-radius: 5px;" alt="Recommendation Letter Preview">
       </a>
       <br>
       <sub>Click to read full letter</sub>
@@ -318,6 +380,7 @@ NTU President Research Scholar | NTU Science & Engineering Undergraduate Scholar
 
 ---
 
+
 ## 📜 Certifications
 
 <table width="100%">
@@ -325,27 +388,32 @@ NTU President Research Scholar | NTU Science & Engineering Undergraduate Scholar
     <td align="center" width="20%">
       <img src="assets/six-sigma-logo.png" width="50" alt="Six Sigma"><br>
       <strong>Lean Six Sigma Yellow Belt</strong><br>
+      <sub>Process Improvement · DMAIC · Root Cause Analysis · Waste Reduction</sub>
     </td>
     <td align="center" width="20%">
       <img src="./Certifications/ml-stanford.png" width="50" alt="Stanford"><br>
-      <strong>Machine Learning</strong><br>Supervised & Unsupervised Learning · Neural Networks · Regularization · Bias-Variance Tradeoff · ML System Design
+      <strong>Machine Learning</strong><br>
+      <sub>Supervised/Unsupervised Learning · Neural Networks · Regularization · Bias-Variance Tradeoff</sub>
     </td>
     <td align="center" width="20%">
       <img src="./Certifications/cloud-computing.png" width="50" alt="Duke"><br>
-      <strong>Cloud Computing</strong><br>Cloud Architecture · Virtualization · SaaS vs IaaS · Docker · CI/CD Pipeline · Containerization
+      <strong>Cloud Computing</strong><br>
+      <sub>Cloud Architecture · Virtualization · SaaS vs IaaS · Docker · CI/CD Pipeline</sub>
     </td>
     <td align="center" width="20%">
-      <img src="./Certifications/excel-specialization.png" width="50" alt="Macquarie"><br>
-      <strong>Excel Analytics</strong><br>Advanced Charting · Interactive Dashboards · Storytelling with Data
+      <img src="./Certifications/excel-visualization.png" width="50" alt="Macquarie"><br>
+      <strong>Excel Analytics</strong><br>
+      <sub>Advanced Charting · Pivot Tables · Interactive Dashboards · Data Storytelling</sub>
     </td>
     <td align="center" width="20%">
       <img src="./Certifications/r-statistics.png" width="50" alt="Colorado"><br>
-      <strong>Statistics (R)</strong><br>Hypothesis Testing · Regression · ANOVA · Data Wrangling · ggplot2
+      <strong>Statistics (R)</strong><br>
+      <sub>Hypothesis Testing · Regression Analysis · ANOVA · Data Wrangling · ggplot2</sub>
     </td>
   </tr>
 </table>
 
-
+---
 
 ---
 
