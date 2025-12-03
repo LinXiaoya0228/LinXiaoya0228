@@ -1,54 +1,3 @@
-
-
-📄 [Lin Xiaoya's Curriculum Vitae](LinXiaoya_Resume_Research.pdf)
-
-
-## 👩‍💻 Work Experience
-
-### **[Shenzhen InnoX Academy](https://en.innoxsz.com) – Market Data Analyst Intern**  
-*Dec 2025 – Feb 2026 | Hybrid* 
-
-- Supported a startup’s **global expansion** by integrating market insights with business strategy.
-- Conducted **competitive monitoring**, user behavior tracking, and sentiment analysis; produced data reports.
-- Used **BI tools (Tableau) and Excel** for data visualization and pivot analysis to support decision-making.
-- Led **industry research and persona profiling** through expert interviews and secondary data.
-- Collaborated cross-functionally with **product, ops, and marketing teams** to translate analytics into actionable strategies.
-- Supported the startup team in participating **CES 2026 (Los Angeles)**, contributing to product showcase strategy and market engagement planning.
-
-
-
-
-### **URECA Project – AlzCare Smart Watch** *(Aug 2024 – May 2025)*  
-- Spearheaded a team in the conceptual design and prototyping of an AI-powered wearable device for dementia patients, with features for real-time health monitoring, fall detection, and geofencing.
-- Collaborated with SG Jamiyah Nursing Home to define project requirements and evaluate initial design concepts, gaining experience in translating real-world needs into a technical solution.
-
-### **Hotel Booking Trends & Cancellation Forecasting** *(Feb 2024 – Apr 2024)*  
-- Led a 4-member team to analyze booking behavior using **TensorFlow, L2 regularization, Batch Normalization**.
-- Achieved **91% accuracy** in cancellation prediction  
-- Delivered insights to 50+ peers and instructors through visual storytelling and model documentation.  
-
-
-
-## 🌱 Community & Leadership  
-- **NTU Institution of Engineering and Technology [IET](https://www.theiet.org/)**, Liaison Manager (Jul 2024 – Present)  
-  Coordinated company visits to **A*STAR, Nestlé, SBS Transit, GlobalFoundries**.
-
-- **NTU Investment Interactive Club [IIC](https://blogs.ntu.edu.sg/sao-ntuiic/)**, Subcommittee (Jul 2024 – Present)  
-  Organized investment conferences with **200+ participants**.
-
-- **CFLS-MUN**, Academic Director (Dec 2019 – Dec 2021)  
-  - Chaired the **North-East MUN** Conference with **1,000+ attendees** 
-  - Led delegations to **World MUN & Yale MUN** 
-  - Trained **100+ students** in resolution drafting, diplomacy, and public speaking  
-
-
-
-<!---
-0228lin/0228lin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
 <div align="center">
 
 # Hi there, I'm Lin Xiaoya (林小雅) 👋
@@ -59,6 +8,11 @@ You can click the Preview link to take a look at your changes.
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:linx0070@e.ntu.edu.sg)
 [![Website Badge](https://img.shields.io/badge/-Personal%20Site-101010?style=flat&logo=github&logoColor=white)](https://linxiaoya0228.github.io)
 
+<a href="LinXiaoya_Resume_Research.pdf">
+  <img src="https://img.shields.io/badge/📄_View_My_Resume-Download_PDF-2ea44f?style=for-the-badge" height="30">
+</a>
+
+<br>
 
 **Nanyang Technological University (NTU)** | CGPA: **4.89** (Highest Distinction Honour) | Dean's List AY 23-24, 24-25 (Top 5%)
 <br>
@@ -130,6 +84,8 @@ NTU President Research Scholar | NTU Science & Engineering Undergraduate Scholar
   </tr>
 </table>
 
+---
+
 ## 🏆 Recommendation Letter
 
 <table width="100%">
@@ -153,15 +109,29 @@ NTU President Research Scholar | NTU Science & Engineering Undergraduate Scholar
 
 ---
 
+## 📂 Other Professional Experience
+
+### **Shenzhen InnoX Academy – Market Data Analyst Intern**
+*Dec 2025 – Feb 2026 | Hybrid*
+
+* Supported a startup’s **global expansion** by integrating market insights with business strategy.
+* Conducted **competitive monitoring**, user behavior tracking, and sentiment analysis.
+* Utilized **Tableau and Excel** for data visualization to support cross-functional decisions (Product/Ops/Marketing).
+* Led **industry research** through expert interviews and contributed to the strategy for **CES 2026 (Los Angeles)**.
+
+---
+
 ## 🔬 Research & Academic Gallery
 
-| **A*STAR Healthcare Data** | **AlzCare Smart Watch** | **Hotel Booking AI** |
+| **A*STAR & NHG Healthcare Data** | **AlzCare Smart Watch** | **Hotel Booking AI** |
 |:---:|:---:|:---:|
 | <img src="https://cdn-icons-png.flaticon.com/512/2854/2854228.png" width="80"> | <img src="https://cdn-icons-png.flaticon.com/512/3004/3004458.png" width="80"> | <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="80"> |
 | **Research Intern** | **URECA Team Lead** | **Course Project Lead** |
-| Developed **rPPG feature preservation** workflows for anonymized medical datasets. Influenced NHG data governance strategies. | Prototyped an AI-wearable for dementia patients. Conducted user research and collaboration with **Jamiyah Nursing Home**. | Achieved **91% accuracy** in cancellation forecasting using **TensorFlow** & Batch Normalization. |
+| Developed **rPPG feature preservation** workflows for anonymized medical datasets. Influenced SG NHG data governance strategies. | Prototyped an AI-wearable for dementia patients. Conducted user research and collaboration with **Jamiyah Nursing Home**. | Achieved **91% accuracy** in cancellation forecasting using **TensorFlow** & Batch Normalization. |
 
 ---
+
+
 ## 📜 Certifications
 
 <table width="100%">
@@ -169,37 +139,51 @@ NTU President Research Scholar | NTU Science & Engineering Undergraduate Scholar
     <td align="center" width="33%">
       <img src="assets/six-sigma-logo.png" width="50" alt="Six Sigma"><br>
       <strong>Lean Six Sigma Yellow Belt</strong><br>
-      <sub>Process Improvement · DMAIC · Root Cause Analysis · Waste Reduction</sub>
+      <small>Process Improvement · DMAIC · Root Cause Analysis · Waste Reduction</small>
     </td>
     <td align="center" width="33%">
       <img src="./Certifications/ml-stanford.png" width="50" alt="Stanford"><br>
       <strong>Machine Learning</strong><br>
-      <sub>Supervised/Unsupervised Learning · Neural Networks · Regularization · Bias-Variance Tradeoff</sub>
+      <small>Supervised/Unsupervised Learning · Neural Networks · Regularization · Bias-Variance Tradeoff</small>
     </td>
     <td align="center" width="33%">
       <img src="./Certifications/cloud-computing.png" width="50" alt="Duke"><br>
       <strong>Cloud Computing</strong><br>
-      <sub>Cloud Architecture · Virtualization · SaaS vs IaaS · Docker · CI/CD Pipeline</sub>
+      <small>Cloud Architecture · Virtualization · SaaS vs IaaS · Docker · CI/CD Pipeline</small>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
       <img src="./Certifications/bloomberg.png" width="50" alt="Bloomberg"><br>
       <strong>Bloomberg Market Concepts</strong><br>
-      <sub>Economic Indicators · Currencies · Fixed Income · Equities · Terminal Functions</sub>
+      <small>Economic Indicators · Currencies · Fixed Income · Equities · Terminal Functions</small>
     </td>
     <td align="center" width="33%">
       <img src="./Certifications/excel-visualization.png" width="50" alt="Macquarie"><br>
       <strong>Excel Analytics</strong><br>
-      <sub>Advanced Charting · VBA · Macros · Interactive Dashboards · Data Storytelling</sub>
+      <small>Advanced Charting · Pivot Tables · Interactive Dashboards · Data Storytelling</small>
     </td>
     <td align="center" width="33%">
       <img src="./Certifications/r-statistics.png" width="50" alt="Colorado"><br>
       <strong>Statistics (R)</strong><br>
-      <sub>Hypothesis Testing · Regression Analysis · ANOVA · Data Wrangling · ggplot2</sub>
+      <small>Hypothesis Testing · Regression Analysis · ANOVA · Data Wrangling · ggplot2</small>
     </td>
   </tr>
 </table>
+---
+
+## 🌱 Community & Leadership
+
+* **NTU Institution of Engineering and Technology ([IET](https://www.theiet.org/))** | *Liaison Manager (Jul 2024 – Present)*
+    * Coordinated company visits to **A*STAR, Nestlé, SBS Transit, and GlobalFoundries**, connecting students with industry professionals.
+
+* **NTU Investment Interactive Club ([IIC](https://blogs.ntu.edu.sg/sao-ntuiic/))** | *Subcommittee (Jul 2024 – Present)*
+    * Planned and executed key conferences, curating speaker panels and attracting **200+ participants**.
+
+* **CFLS Model United Nation Club (CFLS-MUN)** | *Academic Director (Dec 2019 – Dec 2021)*
+    * Chaired the North-East MUN Conference (**1,000+ participants**) and led delegations to World MUN & Yale MUN.
+    * Trained **100+ members** in resolution drafting and diplomacy skills.
+
 ---
 
 ## 🛠 Tech Stack & Tools
