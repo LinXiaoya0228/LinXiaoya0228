@@ -260,3 +260,9 @@ NTU President Research Scholar | NTU Science & Engineering Scholarship Recipient
 ![PySpark](https://img.shields.io/badge/PySpark-Big%20Data-E25A1C?logo=apachespark&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-S3%20%7C%20SageMaker-232F3E?logo=amazon&logoColor=white)
 
+
+</div>
+<div align="center">
+  <br>
+  <sub>Last Updated: Dec 2025 | 📍 Singapore</sub>
+</div>
