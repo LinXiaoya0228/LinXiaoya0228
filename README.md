@@ -22,17 +22,17 @@ NTU President Research Scholar | NTU Science & Engineering Scholarship Recipient
 
 ---
 
-# 🚀 Research & Professional Experience
+# 💼 Professional Work Experience
 
-## GlobalFoundries | Data Scientist Intern
+## 1. GlobalFoundries | Data Scientist Intern
 *May 2025 – Dec 2025 | Singapore*
 
-> *During my 7-month internship at GlobalFoundries, I combined technical innovation with rigorous research to resolve complex engineering challenges. Below are the visual demonstrations of these pipelines.*
+> *During my 7-month internship, I combined technical innovation with rigorous research to resolve complex engineering challenges.*
 
 <table width="100%">
   <tr>
     <td width="55%">
-      <h3>1. Scalable Trace Data ETL Pipeline</h3>
+      <h3>Trace Data ETL Pipeline</h3>
       <p>
         <strong>The Problem:</strong> Processing multi-month sensor traces caused memory crashes and took hours.<br>
         <strong>The Solution:</strong> Built a scalable ETL pipeline using <code>AWS SageMaker</code>, <code>PySpark</code>, and <code>Snappy</code> compression.
@@ -44,10 +44,8 @@ NTU President Research Scholar | NTU Science & Engineering Scholarship Recipient
       </ul>
       <br>
       <blockquote>
-        "The solution developed addressed scalability issues... resulted in 90% reduction in file size."<br>
-        — <em>Khoo Yong, MTS, GlobalFoundries</em> 
+        "The solution developed addressed scalability issues... resulted in 90% reduction in file size."
       </blockquote>
-      <br>
       <a href="https://github.com/LinXiaoya0228/FDCDataExtractor">
         <img src="https://img.shields.io/badge/View_Repository-Code-blue?style=for-the-badge&logo=github">
       </a>
@@ -61,7 +59,7 @@ NTU President Research Scholar | NTU Science & Engineering Scholarship Recipient
 <table width="100%">
   <tr>
     <td width="55%">
-      <h3>2. Trace-to-Image Fault Detection (GAF-CNN)</h3>
+      <h3>Trace-to-Image Fault Detection (GAF-CNN)</h3>
       <p>
         <strong>The Problem:</strong> Existing methods were not suitable for classifying unlabeled equipment parameter traces.<br>
         <strong>The Solution:</strong> Engineered a novel ensembled method of <strong>Guard-Band + OC-SVM</strong> using Gramian Angular Fields (GAF).
@@ -73,10 +71,8 @@ NTU President Research Scholar | NTU Science & Engineering Scholarship Recipient
       </ul>
       <br>
       <blockquote>
-        "Her final model achieved a higher accuracy than traditional Guard-Band method by 14%."<br>
-        — <em>Khoo Yong, MTS, GlobalFoundries</em> 
+        "Her final model achieved a higher accuracy than traditional Guard-Band method by 14%."
       </blockquote>
-      <br>
       <a href="https://github.com/LinXiaoya0228/semiconductor-fault-detection">
         <img src="https://img.shields.io/badge/View_Repository-Code-blue?style=for-the-badge&logo=github">
       </a>
@@ -87,7 +83,7 @@ NTU President Research Scholar | NTU Science & Engineering Scholarship Recipient
   </tr>
 </table>
 
----
+
 
 ## 🏆 Recommendation Letter
 
@@ -110,39 +106,67 @@ NTU President Research Scholar | NTU Science & Engineering Scholarship Recipient
   </tr>
 </table>
 
----
+<br>
 
-## A*STAR | Healthcare Data Research Intern
+## 2. OCBC Bank | Data Analyst Intern (Project Data Analysis)
+*Jan 2026 – Present | Singapore*
+
+* **Automation Framework:** Leading a 4-person multidisciplinary team to build an end-to-end automation system using **Power Automate and Python**, targeting the elimination of manual data extraction for the Talent Acquisition team.
+* **Talent Analytics:** Developed a **Power BI** dashboard to track "Active Requisitions" and "YTD Performance," enabling real-time monitoring of recruiter-specific closure rates and vacancy trends.
+* **Data Governance:** Established a standardized information architecture to categorize diverse hiring data, ensuring high data integrity for executive decision-making.
+
+<br>
+
+## 3. Shenzhen InnoX Academy | Market Data Analyst Intern
+*Dec 2025 – Jan 2026 | Hybrid*
+
+<table width="100%">
+  <tr>
+    <td width="55%">
+      <h3>Project: "Interactive Clothes" GTM Strategy</h3>
+      <p>
+        <strong>The Problem:</strong> The product lacked market fit, oscillating between saturated "fitness" and "gaming" markets with high CAC.<br>
+        <strong>The Solution:</strong> Pivoted to "Somatic Wellness" via Python sentiment analysis and engineered the digital launch infrastructure.
+      </p>
+      <ul>
+        <li>🚀 <strong>500+ Leads</strong> captured in 48h via custom Landing Page.</li>
+        <li>📊 <strong>Analytics:</strong> Mined competitor reviews (Reddit/Amazon) to identify "Subscription Fatigue" as a key pain point.</li>
+        <li>🛠 <strong>Tech:</strong> <code>Python (NLP)</code>, <code>Tableau</code>, <code>HTML5/Tailwind</code>, <code>GTM Strategy</code>.</li>
+      </ul>
+      <br>
+      <a href="#">
+        <img src="https://img.shields.io/badge/View_Repository-Code-blue?style=for-the-badge&logo=github">
+      </a>
+    </td>
+    <td width="45%">
+      <img src="assets/HUFUWeb_demo.gif" width="100%" alt="InnoX Landing Page Demo"/>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## 4. A*STAR | Healthcare Data Research Intern
 *Jan 2025 – Apr 2025 | Singapore*
 
-**Project: Anonymization Workflows for Confidential Medical Datasets (SG National Healthcare Group Collab)**
+**Project: Anonymization Workflows for Confidential Medical Datasets**
 * Co-led a team of 5 in a collaboration with **SG National Healthcare Group (NHG)** to anonymize facial healthcare datasets for AI validation.
 * Addressed the trade-off between data utility and patient privacy, a core challenge in observational healthcare data.
 * Performed feature preservation analysis through rPPG-tool to optimize preprocessing for downstream AI performance.
-* Presented findings on healthcare optimization workflows to clinical and technical stakeholders, influencing future data governance strategies.
 
+<br>
 
----
-
-## Shenzhen InnoX Academy | Market Data Analyst Intern
-*Dec 2025 – Feb 2026 | Hybrid*
-
-* Supported a startup’s global expansion by integrating market insights with business strategy.
-* Utilized **Tableau and Excel** for data visualization to support cross-functional decisions.
-* Led industry research through expert interviews and contributed to the strategy for **CES 2026 (Los Angeles)**.
-
----
-
-## Classbro (Shanghai DAOBI EdTech) | Data Science Instructor
+## 5. Classbro (Shanghai DAOBI EdTech) | Data Science Instructor
 *Jun 2024 – Dec 2024 | Hybrid*
 
-* Developed and delivered bilingual lectures on core ML algorithms and SQL
-* Designed course content that contributed **SGD 10,000+ revenue growth**
+* Developed and delivered bilingual lectures on core ML algorithms and SQL.
+* Designed course content that contributed **SGD 10,000+ revenue growth**.
 
 ---
 
-### AlzCare: AI-Powered Dementia Care Platform
+# 🛠 Projects & Research
 
+### 1. AlzCare: AI-Powered Dementia Care Platform
 
 <table style="border: none; border-collapse: collapse; width: 100%;">
   <tr>
@@ -181,13 +205,13 @@ NTU President Research Scholar | NTU Science & Engineering Scholarship Recipient
   </tr>
 </table>
 
-### Hotel Booking Trends & Cancellation Forecast
+### 2. Hotel Booking Trends & Cancellation Forecast
 **Course Project Lead**
 * Led a 4-member team to analyze booking behavior and predict cancellations.
 * Optimized model to **91% accuracy** using **TensorFlow**, L2 regularization, and Batch Normalization.
 * Delivered visual storytelling insights to 50+ course instructors and peers.
 
-
+---
 
 # 📜 Certifications
 
@@ -264,5 +288,5 @@ NTU President Research Scholar | NTU Science & Engineering Scholarship Recipient
 </div>
 <div align="center">
   <br>
-  <sub>Last Updated: Dec 2025 | 📍 Singapore</sub>
+  <sub>Last Updated: Feb 2026 | 📍 Singapore</sub>
 </div>
