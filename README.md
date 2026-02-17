@@ -122,7 +122,7 @@ NTU President Research Scholar | NTU Science & Engineering Scholarship Recipient
 
 <table width="100%">
   <tr>
-    <td width="55%">
+    <td width="60%">
       <h3>Project: "Interactive Clothes" GTM Strategy</h3>
       <p>
         <strong>The Problem:</strong> The product lacked market fit, oscillating between saturated "fitness" and "gaming" markets with high CAC.<br>
@@ -130,16 +130,22 @@ NTU President Research Scholar | NTU Science & Engineering Scholarship Recipient
       </p>
       <ul>
         <li>🚀 <strong>500+ Leads</strong> captured in 48h via custom Landing Page.</li>
-        <li>📊 <strong>Analytics:</strong> Mined competitor reviews (Reddit/Amazon) to identify "Subscription Fatigue" as a key pain point.</li>
+        <li>📊 <strong>Analytics:</strong> Mined competitor reviews to identify "Subscription Fatigue" as a key pain point.</li>
         <li>🛠 <strong>Tech:</strong> <code>Python (NLP)</code>, <code>Tableau</code>, <code>HTML5/Tailwind</code>, <code>GTM Strategy</code>.</li>
       </ul>
       <br>
       <a href="#">
-        <img src="https://img.shields.io/badge/View_Repository-Code-blue?style=for-the-badge&logo=github">
+        <img src="https://img.shields.io/badge/View_Full_Case_Study-Project-orange?style=for-the-badge&logo=github">
       </a>
     </td>
-    <td width="45%">
-      <img src="assets/HUFUWeb_demo.gif" width="100%" alt="InnoX Landing Page Demo"/>
+    <td width="40%" align="center">
+      <img src="assets/HUFUWeb1.gif" width="100%" alt="Part 1"/>
+      <br><br>
+      <img src="assets/HUFUWeb2.gif" width="100%" alt="Part 2"/>
+      <br><br>
+      <a href="https://youtu.be/UrTLQHxSCOg">
+        <img src="https://img.shields.io/badge/▶_Watch_Full_1_Min_Walkthrough-YouTube-red?style=for-the-badge&logo=youtube" alt="Watch Video">
+      </a>
     </td>
   </tr>
 </table>
