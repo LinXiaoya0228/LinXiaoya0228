@@ -189,7 +189,7 @@ NTU President Research Scholar | NTU Science & Engineering Scholarship Recipient
 
 
 
-## 📜 Certifications
+# 📜 Certifications
 
 <table width="100%">
   <tr>
@@ -230,7 +230,7 @@ NTU President Research Scholar | NTU Science & Engineering Scholarship Recipient
 
 ---
 
-## 🌱 Community & Leadership
+# 🌱 Community & Leadership
 
 * **NTU Institution of Engineering and Technology ([IET](https://www.theiet.org/))** | *Liaison Manager (Jul 2024 – Present)*
     * Coordinated company visits to **A*STAR, Nestlé, SBS Transit, and GlobalFoundries**, connecting students with industry professionals.
@@ -244,7 +244,7 @@ NTU President Research Scholar | NTU Science & Engineering Scholarship Recipient
 
 ---
 
-## 🛠 Tech Stack & Tools
+# 🛠 Tech Stack & Tools
 
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)
