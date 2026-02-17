@@ -108,7 +108,7 @@ NTU President Research Scholar | NTU Science & Engineering Scholarship Recipient
 
 <br>
 
-## 2. OCBC Bank | Data Analyst Intern (Project Data Analysis)
+## 2. OCBC Bank | Data Analyst Intern 
 *Jan 2026 – Present | Singapore*
 
 * **Automation Framework:** Leading a 4-person multidisciplinary team to build an end-to-end automation system using **Power Automate and Python**, targeting the elimination of manual data extraction for the Talent Acquisition team.
