@@ -14,7 +14,7 @@
 
 <br>
 
-**Nanyang Technological University (NTU)** | CGPA: **4.89** (Highest Distinction Honour) | **Dean's List** AY 23-24, 24-25 (Top 5%)
+**Nanyang Technological University (NTU)** | CGPA: **4.93** (Highest Distinction Honour) | **Dean's List** AY 23-24, 24-25 (Top 5%)
 <br>
 NTU President Research Scholar | NTU Science & Engineering Scholarship Recipient | Presenter at ICUR 2025
 
