@@ -109,37 +109,44 @@ NTU President Research Scholar | NTU Science & Engineering Scholarship Recipient
 <br>
 
 
+
 ## 2. OCBC Bank | Data Analyst Intern 
 *Jan 2026 – Present | Singapore*
 
-> *Spearheaded a multidisciplinary team to modernize HR data infrastructure, balancing agile automation with strict enterprise data governance.*
+> *Spearheaded a multidisciplinary team to modernize HR data infrastructure, balancing agile automation with strict enterprise data privacy governance.*
 
 <table width="100%">
   <tr>
-    <td width="60%">
+    <td width="60%" valign="top">
       <h3>End-to-End HR Automation Framework</h3>
       <p>
         <strong>The Problem:</strong> Manual data extraction and validation for the Talent Acquisition team were highly inefficient and prone to human error.<br>
         <strong>The Solution:</strong> Architected a fully automated compliance and analytics pipeline utilizing <strong>Power Automate and Python</strong>.
       </p>
       <ul>
-        <li>⚙️ <strong>Workflow Automation:</strong> Designed conditional cloud flows (SharePoint/OneDrive triggers) to automate data ingestion and validation.</li>
-        <li>📩 <strong>Exception Handling:</strong> Automated targeted Outlook/Teams communications for missing data points.</li>
+        <li>⚙️ <strong>Workflow Automation:</strong> Designed conditional cloud flows (SharePoint/OneDrive triggers) to automate data ingestion and array mapping.</li>
+        <li>📩 <strong>Exception Handling:</strong> Automated targeted Outlook/Teams communications for missing or invalid compliance data points.</li>
         <li>📊 <strong>Analytics:</strong> Developed a <strong>Power BI</strong> dashboard to track "Active Requisitions" and recruiter performance metrics.</li>
-        <li>🛠 <strong>Tech:</strong> <code>Power Automate</code>, <code>Python</code>, <code>Power BI</code>, <code>SharePoint</code>, <code>Excel Online (Business)</code>.</li>
+        <li>🛡 <strong>Tech:</strong> <code>Power Automate</code>, <code>Python</code>, <code>Power BI</code>, <code>SharePoint</code>, <code>Excel Online (Business)</code>.</li>
       </ul>
       <br>
       <blockquote>
-        "Due to strict banking data privacy and IT security governance, the codebase and flow architectures are NDA restricted."
+        <strong>Note on NDA:</strong> Due to strict banking data privacy regulations, the actual enterprise codebase and internal flow architectures are highly classified. 
+        <br><br>
+        👉 <em>To demonstrate the underlying logic, a functional replica using mock, non-sensitive data is showcased on the right.</em>
       </blockquote>
-      <img src="https://img.shields.io/badge/Enterprise_Project-NDA_Restricted-red?style=for-the-badge&logo=security">
     </td>
-    <td width="40%" align="center">
-      <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" width="60%" alt="Power Automate">
+    <td width="40%" align="center" valign="top">
+      <br>
+      <strong>Mock Architecture Demo</strong><br>
+      <a href="assets/power_automate_flow.png" target="_blank">
+        <img src="assets/power_automate_flow.png" width="95%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Power Automate Flow Architecture">
+      </a>
       <br><br>
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" width="60%" alt="Power BI">
-      <br><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="60%" alt="Python">
+      <strong>Automated Output Report</strong><br>
+      <a href="assets/automated_email.png" target="_blank">
+        <img src="assets/automated_email.png" width="95%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Automated Email Report">
+      </a>
     </td>
   </tr>
 </table>
