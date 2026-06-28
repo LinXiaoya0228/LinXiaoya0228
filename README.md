@@ -108,12 +108,41 @@ NTU President Research Scholar | NTU Science & Engineering Scholarship Recipient
 
 <br>
 
+
 ## 2. OCBC Bank | Data Analyst Intern 
 *Jan 2026 – Present | Singapore*
 
-* **Automation Framework:** Leading a 4-person multidisciplinary team to build an end-to-end automation system using **Power Automate and Python**, targeting the elimination of manual data extraction for the Talent Acquisition team.
-* **Talent Analytics:** Developed a **Power BI** dashboard to track "Active Requisitions" and "YTD Performance," enabling real-time monitoring of recruiter-specific closure rates and vacancy trends.
-* **Data Governance:** Established a standardized information architecture to categorize diverse hiring data, ensuring high data integrity for executive decision-making.
+> *Spearheaded a multidisciplinary team to modernize HR data infrastructure, balancing agile automation with strict enterprise data governance.*
+
+<table width="100%">
+  <tr>
+    <td width="60%">
+      <h3>End-to-End HR Automation Framework</h3>
+      <p>
+        <strong>The Problem:</strong> Manual data extraction and validation for the Talent Acquisition team were highly inefficient and prone to human error.<br>
+        <strong>The Solution:</strong> Architected a fully automated compliance and analytics pipeline utilizing <strong>Power Automate and Python</strong>.
+      </p>
+      <ul>
+        <li>⚙️ <strong>Workflow Automation:</strong> Designed conditional cloud flows (SharePoint/OneDrive triggers) to automate data ingestion and validation.</li>
+        <li>📩 <strong>Exception Handling:</strong> Automated targeted Outlook/Teams communications for missing data points.</li>
+        <li>📊 <strong>Analytics:</strong> Developed a <strong>Power BI</strong> dashboard to track "Active Requisitions" and recruiter performance metrics.</li>
+        <li>🛠 <strong>Tech:</strong> <code>Power Automate</code>, <code>Python</code>, <code>Power BI</code>, <code>SharePoint</code>, <code>Excel Online (Business)</code>.</li>
+      </ul>
+      <br>
+      <blockquote>
+        "Due to strict banking data privacy and IT security governance, the codebase and flow architectures are NDA restricted."
+      </blockquote>
+      <img src="https://img.shields.io/badge/Enterprise_Project-NDA_Restricted-red?style=for-the-badge&logo=security">
+    </td>
+    <td width="40%" align="center">
+      <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" width="60%" alt="Power Automate">
+      <br><br>
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" width="60%" alt="Power BI">
+      <br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="60%" alt="Python">
+    </td>
+  </tr>
+</table>
 
 <br>
 
