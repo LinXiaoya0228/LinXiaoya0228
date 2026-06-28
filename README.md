@@ -113,7 +113,7 @@ NTU President Research Scholar | NTU Science & Engineering Scholarship Recipient
 ## 2. OCBC Bank | Data Analyst Intern 
 *Jan 2026 – Present | Singapore*
 
-> *Spearheaded a multidisciplinary team to modernize HR data infrastructure, balancing agile automation with strict enterprise data privacy governance.*
+> *Led a multidisciplinary team to modernize HR data infrastructure, balancing automation with strict enterprise data privacy governance.*
 
 <table width="100%">
   <tr>
